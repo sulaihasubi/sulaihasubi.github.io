@@ -1,16 +1,6 @@
 # This portfolio being modified by Sulaiha Subi
 
-locale                   : "en-US"
-title                    : "/assets/images/Sulaiha-Subi.png" # nothing
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sulaiha Subi"
-description              : "Data Science Portfolio"
-url                      : https://sulaihasubi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/Sulaiha-Subi.png"
+title: "/assets/images/Sulaiha-Subi.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -63,7 +53,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:ssulaihasubi@gmail.com"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linked-in"
       url: "https://www.linkedin.com/in/sulaihasubi/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -78,7 +68,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linked-in"
       url: "https://www.linkedin.com/in/sulaihasubi/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
