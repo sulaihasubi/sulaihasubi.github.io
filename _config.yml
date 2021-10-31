@@ -10,9 +10,9 @@ description              : "Data Science Portfolio"
 url                      : https://sulaihasubi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/Sulaiha-Subi.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -128,6 +128,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sulaihasubi"
+    - label: "DAGsHub"
+      icon: "fab fa-fw fas fa-share-alt"
+      url: "https://dagshub.com/sulaihasubi"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@ssulaihasubi"
