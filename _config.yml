@@ -111,7 +111,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sulaihasubi"
     - label: "DAGsHub"
-      icon: "fab fa-fw fa-dagshub"
+      icon: "fab fa-fw fas fa-share-alt"
       url: "https://dagshub.com/sulaihasubi"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
