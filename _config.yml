@@ -3,7 +3,7 @@
 locale                   : "en-US"
 title                    : # nothing
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "/assets/images/image-filename.jpg" # site tagline that appears below site title in masthead
 name                     : "Sulaiha Subi"
 description              : "Data Science Portfolio"
 url                      : https://sulaihasubi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
