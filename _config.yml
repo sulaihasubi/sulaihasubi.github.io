@@ -3,7 +3,7 @@
 # Site Settings              
 locale                   : "en-US"
 title                    : "Sulaiha Subi"
-title_separator          : # nothing
+title_separator          : " | "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sulaiha Subi"
 description              : "Data Science Portfolio"
