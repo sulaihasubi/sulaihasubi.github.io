@@ -1,6 +1,7 @@
 # This portfolio being modified by Sulaiha Subi
 
 locale                   : "en-US"
+header                   : "/assets/images/about-header-1566x403.jpeg"
 title                    : # nothing
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
