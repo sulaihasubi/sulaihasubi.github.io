@@ -2,7 +2,7 @@
 
 # Site Settings              
 locale                   : "en-US"
-title                    : # nothing
+title                    : <p align="center"> Sulaiha Subi </p>
 title_separator          : # nothing
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sulaiha Subi"
@@ -10,7 +10,7 @@ description              : "Data Science Portfolio"
 url                      : https://sulaihasubi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/Sulaiha-Subi.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
