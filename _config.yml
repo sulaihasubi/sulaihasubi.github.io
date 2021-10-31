@@ -2,7 +2,7 @@
 
 # Site Settings              
 locale                   : "en-US"
-title                    : <p align="center"> Sulaiha Subi </p>
+title                    : "<p align="center"> Sulaiha Subi </p>"
 title_separator          : # nothing
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sulaiha Subi"
