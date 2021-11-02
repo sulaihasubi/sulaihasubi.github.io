@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 ---
-<p> <img src="https://chriskhanhtran.github.io/assets/images/about-me-600x600.png" width="250" class="align-center"> </p>
+<p> <img src="https://github.com/sulaihasubi/sulaihasubi.github.io/blob/master/assets/images/dp.png" width="250" class="align-center"> </p>
 
 Career Objectives
 ---
