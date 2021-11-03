@@ -17,7 +17,7 @@ Projects I worked on include
 
 Competition
 ---
-<strong>  Dataiku Frontrunner Awards </strong> href="https://www.w3schools.com/"
+<strong>  Dataiku Frontrunner Awards </strong> <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 Read my detailed use case 
 
 
