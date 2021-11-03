@@ -6,7 +6,7 @@ title: "Curriculum Vitae"
 
 📧 Contact Me
 ---
- <li> Email:  <a href="ssulaihasubi@gmail.com">Dataiku Frontrunner Awards!</a> </li>
+ <li> Email:  <a href="ssulaihasubi@gmail.com"></a></li>
 
 
 
