@@ -13,9 +13,9 @@ title: "Curriculum Vitae"
 
 💻 Experiences
 ---
-<h3> id="skim-ai-technologies-inc">RiseHill Data Analysis </h3>
+<h3 id="risehill-data-analysis"> RiseHill Data Analysis 
 
-<h3>id="skim-ai-technologies-inc">RiseHill Data Analysis </h3>
+
 
 
 
