@@ -6,19 +6,14 @@ title: "Curriculum Vitae"
 
 📧 Contact Me
 ---
- <li><a href="mailto:ssulaihasubi@gmail.com">Send Email to me</a></li>
+ <li> Email: <a href="mailto:ssulaihasubi@gmail.com">ssulaihasubi@gmail.com</a></li>
 
- <li><a href="https://www.linkedin.com/in/sulaihasubi/">Check out my LinkedIn</a></li>
+ <li> LinkedIn: <a href="https://www.linkedin.com/in/sulaihasubi/">linkedin.com/in/sulaihasubi/</a></li>
 
 
 💻 Experiences
 ---
-My use case is the only participation from APAC presenting the company.
-Read my detailed use case at <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Awards/RiseHill-Data-Analysis-Using-AI-to-combat-the-Rise-in-Corporate/ta-p/18184">Dataiku Frontrunner Awards!</a>
 
 
 
-Tools
----
 
-ndfdmdfmn
