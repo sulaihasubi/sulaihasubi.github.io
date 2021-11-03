@@ -17,7 +17,7 @@ Projects I worked on include
 
 Competition
 ---
-My use case is the only participation from APAC presenting the company.
+The only participation from APAC presenting the company.
 Read my detailed use case at <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Awards/RiseHill-Data-Analysis-Using-AI-to-combat-the-Rise-in-Corporate/ta-p/18184">Dataiku Frontrunner Awards!</a>
 
 
