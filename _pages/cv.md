@@ -4,9 +4,9 @@ title: "Curriculum Vitae"
 ---
 <!-- <p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p> -->
 
-📧 Career Objectives
+📧 Contact Me
 ---
- <li> jhfgjdfjgh  </li>
+ <li> Email:  <a href="ssulaihasubi@gmail.com">Dataiku Frontrunner Awards!</a> </li>
 
 
 
