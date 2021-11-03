@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "CV"
+title: "Curriculum Vitae"
 ---
 <p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p>
 
