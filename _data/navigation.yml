@@ -1,9 +1,22 @@
+# main links links
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Blog Posts"
+    url: "https://medium.com/@GalarnykMichael"
+
+  - title: "Consulting or Contracting"
+    url: /consulting_contracting/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Recommended Resources"
+    url: /recommended_resources/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Publications"
+    url: /publications/  
+
+  - title: "Teaching"
+    url: /courses/  
