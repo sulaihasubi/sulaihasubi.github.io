@@ -8,9 +8,10 @@ title: "Curriculum Vitae"
 ---
  <li><a href="mailto:ssulaihasubi@gmail.com">Send Email to me</a></li>
 
+ <li><a href="https://www.linkedin.com/in/sulaihasubi/">Check out my LinkedIn</a></li>
 
 
-Competition
+💻 Experiences
 ---
 My use case is the only participation from APAC presenting the company.
 Read my detailed use case at <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Awards/RiseHill-Data-Analysis-Using-AI-to-combat-the-Rise-in-Corporate/ta-p/18184">Dataiku Frontrunner Awards!</a>
