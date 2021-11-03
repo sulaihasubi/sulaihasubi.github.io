@@ -6,7 +6,7 @@ title: "Curriculum Vitae"
 
 📧 Contact Me
 ---
- <li> Email:  <a href="ssulaihasubi@gmail.com"></a></li>
+ <li><a href="mailto:ssulaihasubi@gmail.com">Send Email to me</a></li>
 
 
 
