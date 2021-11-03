@@ -17,8 +17,9 @@ Projects I worked on include
 
 Competition
 ---
-<strong>  Dataiku Frontrunner Awards </strong> <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
-Read my detailed use case 
+My use case is the only participation from APAC presenting the company.
+Read my detailed use case <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Awards/RiseHill-Data-Analysis-Using-AI-to-combat-the-Rise-in-Corporate/ta-p/18184">Dataiku Frontrunner Awards!</a>
+
 
 
 Tools
