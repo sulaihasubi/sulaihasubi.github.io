@@ -17,9 +17,9 @@ My other big responsibilities as Data Scientist are to develop new client relati
 
 I also currently collaborating with 47 other AI Engineer from 18 countries for 8 weeks challenge as a <strong>Machine Learning Engineer</strong> (part-timer) at Omdena. In this project I apply my knowledge and skills to build an automated plant health prediction model, using drone-derived multispectral and thermal data combined with weather and irrigation data. 
 
-I am proficient in Python (Pandas, NumPy, Matplotlib, OpenCV etc) programming language for data manipulation and data visualisation with Tableau and Dataiku. I am enjoyed working with large datasets including cleaning, preprocessing, connecting and mining those data. I have alredy worked with few high value use case in Insurance, Marketing and Edge Computing like Drone where I built Random Forest, XGBoost, SVM, Regression and Image Classifiaction. Some of these model developed end-to-end in Dataiku DSS Flatform
+I am proficient in Python (Pandas, NumPy, Matplotlib, OpenCV etc) programming language and data visualisation with Tableau and Dataiku. I am enjoyed working with large datasets including cleaning, preprocessing, connecting and mining those data. I have alredy worked with few high value use case in Insurance, Marketing and Edge Computing like Drone where I built Random Forest, XGBoost, SVM, Regression and Image Classifiaction. Some of these model developed end-to-end in Dataiku DSS Flatform
 
-Projects I worked on include Text Pre-processing for NLP in the documents management system Integrated Data Intelligence (IDI) and applied cutting-edge Computer Vision skills  for POC in face recognition & counting for productivity measurements. More details about this project can be found here:
+Projects I worked on include Text Pre-processing for NLP in the documents management system, Integrated Data Intelligence (IDI), and applied cutting-edge Computer Vision skills  for POC in face recognition & counting for productivity measurements. More details about this project can be found here:
 <p class="text-center"><a href="https://ssulaihasubi.github.io/portfolio/" class="btn btn--info">View My Portfolio</a></p>
 
 
@@ -27,8 +27,9 @@ Competition
 ---
 <img src="https://community.dataiku.com/t5/image/serverpage/image-id/3235i0C369546705BEB4E/image-size/large?v=v2&amp;px=999" role="button" title="Copy of SOCIAL-Set-General-Photo-1200x400px.jpg" alt="Copy of SOCIAL-Set-General-Photo-1200x400px.jpg" li-image-url="https://community.dataiku.com/t5/image/serverpage/image-id/3235i0C369546705BEB4E?v=v2" li-image-display-id="'3235i0C369546705BEB4E'" li-message-uid="'16117'" li-messages-message-image="true" li-bindable="" class="lia-media-image" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false" li-compiled="true"> 
 
-The only participation from APAC presenting the company.
-Read my detailed use case at <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Awards/RiseHill-Data-Analysis-Using-AI-to-combat-the-Rise-in-Corporate/ta-p/18184">Dataiku Frontrunner Awards!</a>
+Last July 2021, I was actively participated in <strong>Dataiku Frontrunner Awards</strong> as the only submission presenting the use case from APAC region. I am proudly said that my use case was being published by <a href="https://community.dataiku.com">Dataiku  Community</a>
+
+More details about the use case, can be read here: <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Awards/RiseHill-Data-Analysis-Using-AI-to-combat-the-Rise-in-Corporate/ta-p/18184">Dataiku Frontrunner Awards!</a>
 
 
 <!-- <img src="https://chriskhanhtran.github.io/assets/images/lbm-2016.jpg" width="400" class="align-center"> -->
