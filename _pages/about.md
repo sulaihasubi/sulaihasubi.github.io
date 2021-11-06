@@ -14,12 +14,12 @@ Career Objective
 ---
 <p style="text-align:justify">
 My name is Sulaiha Subi, you may call me <strong>"Sue"</strong>for short. I am <strong> Data Scientist </strong> at a startup company in Kuala Lumpur with industry experience in Deep Learning and Machine Learning. I joined the company as the first Data Scientist working on every aspect of Data Analytics and Predictive Modelling. I am the main contributor to the development of Data Science in the company.
-My other big responsibilities as Data Scientist are to develop new client relationships or potential collaboration, meet & present the company's product/services & highly responsible to prepare high business value commercial proposals across different domains of the industries (client-facing skills).
-
-I also currently collaborating with 47 other AI Engineer from 18 countries for 8 weeks challenge as a <strong>Machine Learning Engineer</strong> (part-timer) at Omdena. In this project I apply my knowledge and skills to build an automated plant health prediction model, using drone-derived multispectral and thermal data combined with weather and irrigation data. 
-
-I am proficient in Python (Pandas, NumPy, Matplotlib, OpenCV etc) programming language and data visualisation with Tableau and Dataiku. I am enjoyed working with large datasets including cleaning, preprocessing, connecting and mining those data. I have alredy worked with few high value use case in Insurance, Marketing and Edge Computing like Drone where I built Random Forest, XGBoost, SVM, Regression and Image Classifiaction. Some of these model developed end-to-end in Dataiku DSS Flatform
-
+My other big responsibilities as Data Scientist are to develop new client relationships or potential collaboration, meet & present the company's product/services & highly responsible to prepare high business value commercial proposals across different domains of the industries (client-facing skills). </p>
+<p style="text-align:justify">
+I also currently collaborating with 47 other AI Engineer from 18 countries for 8 weeks challenge as a <strong>Machine Learning Engineer</strong> (part-timer) at Omdena. In this project I apply my knowledge and skills to build an automated plant health prediction model, using drone-derived multispectral and thermal data combined with weather and irrigation data. </p>
+<p style="text-align:justify">
+I am proficient in Python (Pandas, NumPy, Matplotlib, OpenCV etc) programming language and data visualisation with Tableau and Dataiku. I am enjoyed working with large datasets including cleaning, preprocessing, connecting and mining those data. I have alredy worked with few high value use case in Insurance, Marketing and Edge Computing like Drone where I built Random Forest, XGBoost, SVM, Regression and Image Classifiaction. Some of these model developed end-to-end in Dataiku DSS Flatform. </p>
+<p style="text-align:justify">
 Projects I worked on include Text Pre-processing for NLP in the documents management system, Integrated Data Intelligence (IDI), and applied cutting-edge Computer Vision skills  for POC in face recognition & counting for productivity measurements. More details about this project can be found here:
 <p class="text-center"><a href="https://ssulaihasubi.github.io/portfolio/" class="btn btn--info">View My Portfolio</a></p> </p>
 
