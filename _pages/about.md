@@ -27,6 +27,8 @@ Competition
 The only participation from APAC presenting the company.
 Read my detailed use case at <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Awards/RiseHill-Data-Analysis-Using-AI-to-combat-the-Rise-in-Corporate/ta-p/18184">Dataiku Frontrunner Awards!</a>
 
+<p> <img src="https://sulaihasubi.github.io/assets/images/datiku.png" class="align-center"> </p>
+
 
 
 Hobbies
