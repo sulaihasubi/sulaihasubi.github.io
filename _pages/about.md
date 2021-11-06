@@ -6,8 +6,8 @@ redirect_from:
   - /about.html
 ---
 <p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p>
-<p class="text-center"><a href="https://sulaihasubi.github.io/cv/" class="btn btn--info">View My Portfolio</a></p>
-<p class="text-center"><a href="https://www.linkedin.com/in/sulaihasubi/" class="btn btn--info">LinkedIn</a></p>
+<!-- CTA Button for the CV, Portfolio and LinkedIn -->
+<p class="text-center"><a href="https://sulaihasubi.github.io/cv/" class="btn btn--info">Resume</a> <a href="https://sulaihasubi.github.io/cv/" class="btn btn--info">Portfolio</a> <a href="https://www.linkedin.com/in/sulaihasubi/" class="btn btn--info">LinkedIn</a></p>
 
 Career Objectives
 ---
