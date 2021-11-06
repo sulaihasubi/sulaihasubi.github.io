@@ -3,7 +3,7 @@ permalink: /cv/
 title: "Curriculum Vitae"
 ---
 <!-- <p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p> -->
-<a href="https://chriskhanhtran.github.io/files/sulaiha-subi-cv.pdf" class="btn btn--info">Download CV</a>
+<a href="https://sulaihasubi.github.io/files/sulaiha-subi-cv.pdf" class="btn btn--info">Download CV</a>
 <p><em>Updated: 06/11/2021</em></p>
 
 
