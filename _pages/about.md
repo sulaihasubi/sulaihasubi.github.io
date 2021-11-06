@@ -15,6 +15,7 @@ My other big responsibilities as Data Scientist are to develop new client relati
 I also currently collaborating with 47 other AI Engineer from 18 countries for 8 weeks challenge as a <strong>Machine Learning Engineer</strong> (part-timer) at Omdena. In this project I apply my knowledge and skills to build an automated plant health prediction model, using drone-derived multispectral and thermal data combined with weather and irrigation data. 
 
 Projects I worked on include 
+<a href="https://chriskhanhtran.github.io/portfolio/" class="btn btn--info">View My Portfolio</a>
 
 
 
