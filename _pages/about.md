@@ -6,6 +6,7 @@ redirect_from:
   - /about.html
 ---
 <p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p>
+
 <!-- CTA Button for the CV, Portfolio and LinkedIn -->
 <p class="text-center"><a href="https://sulaihasubi.github.io/cv/" class="btn btn--info">Resume</a> <a href="https://sulaihasubi.github.io/cv/" class="btn btn--info">Portfolio</a> <a href="https://www.linkedin.com/in/sulaihasubi/" class="btn btn--info">LinkedIn</a></p>
 
@@ -16,8 +17,8 @@ My other big responsibilities as Data Scientist are to develop new client relati
 
 I also currently collaborating with 47 other AI Engineer from 18 countries for 8 weeks challenge as a <strong>Machine Learning Engineer</strong> (part-timer) at Omdena. In this project I apply my knowledge and skills to build an automated plant health prediction model, using drone-derived multispectral and thermal data combined with weather and irrigation data. 
 
-Projects I worked on include 
-<a href="https://chriskhanhtran.github.io/portfolio/" class="btn btn--info">View My Portfolio</a>
+Projects I worked on include Integrated Data Intelligence
+
 
 
 
@@ -28,7 +29,12 @@ Read my detailed use case at <a href="https://community.dataiku.com/t5/Dataiku-F
 
 
 
-Tools
+Hobbies
 ---
 
-ndfdmdfmn
+Taekwondo and Yoga
+
+
+<blockquote>
+  <p>“”</p>
+</blockquote>
