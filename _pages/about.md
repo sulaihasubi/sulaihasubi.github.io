@@ -10,7 +10,7 @@ redirect_from:
 <!-- CTA Button for the CV, Portfolio and LinkedIn -->
 <p class="text-center"><a href="https://sulaihasubi.github.io/cv/" class="btn btn--info">CV</a> <a href="https://sulaihasubi.github.io/portfolio/" class="btn btn--info">Portfolio</a> <a href="https://www.linkedin.com/in/sulaihasubi/" class="btn btn--info">LinkedIn</a></p>
 
-Career Objectives
+Career Objective
 ---
 My name is Sulaiha Subi, you may call me <strong>"Sue"</strong>for short. I am <strong> Data Scientist </strong> at a startup company in Kuala Lumpur with industry experience in Deep Learning and Machine Learning. I joined the company as the first Data Scientist working on every aspect of Data Analytics and Predictive Modelling. I am the main contributor to the development of Data Science in the company.
 My other big responsibilities as Data Scientist are to develop new client relationships or potential collaboration, meet & present the company's product/services & highly responsible to prepare high business value commercial proposals across different domains of the industries (client-facing skills).
