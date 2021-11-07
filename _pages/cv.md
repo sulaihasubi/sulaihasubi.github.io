@@ -48,8 +48,6 @@ title: "Curriculum Vitae"
   <li>Build an automated plant health prediction model, using drone-derived multispectral and thermal data combined with weather and irrigation data</li>
   <li>Train a model to detect water stress, pest infestation, and man-made plant stress</li>
   <li><strong>Tools:</strong> QGIS, DAGsHub, GoogleColab, DVC</li>
-  <li></li>
-  <li></li>
 </ul>
 
 ---
@@ -95,4 +93,16 @@ title: "Curriculum Vitae"
   <li></li>
 </ul>
 
-
+---
+<h4 style="text-align:left;">Omdena<span style="float:right;">
+         New York, NY</span></h4> 
+<p style="text-align:left;"><em>Machine Learning Engineer (Part-Time)<span style="float:right;">
+         Sep 2021 - Present</span></em></p>
+<ul style="text-align:justify">
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
