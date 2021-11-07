@@ -116,14 +116,17 @@ title: "Curriculum Vitae"
          2014 –  2019</span></em></p>
 <ul style="text-align:justify">
   <li>Major in Information System</li>
----
+</ul>
+
 <h4 style="text-align:left;">University Malaysia Sarawak (UNIMAS)<span style="float:right;">
          Kuching, SWK</span></h4> 
 <p style="text-align:left;"><em>Bachelor of Computer Science with Honours <span style="float:right;">
          2014 –  2019</span></em></p>
 <ul style="text-align:justify">
   <li>Major in Information System</li>
- 
+</ul>
+
+
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
 <aside class="sidebar__right ">
