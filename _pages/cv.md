@@ -127,7 +127,7 @@ title: "Curriculum Vitae"
 ---
 <p style="text-align:justify">
 
-Please visit my <a href="https://community.dataiku.com">Publication</a> and <a href="https://community.dataiku.com">Portfolio</a>for more details.</p>
+Please visit my <a href="https://community.dataiku.com">Publication</a> and <a href="https://community.dataiku.com">Portfolio</a> for more details.</p>
 
 
 🦾 Skills
