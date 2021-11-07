@@ -21,7 +21,7 @@ I also currently collaborating with 47 other AI Engineer from 18 countries for 8
 I am proficient in Python (Pandas, NumPy, Matplotlib, OpenCV etc) programming language and data visualisation with Tableau and Dataiku. I am enjoyed working with large datasets including cleaning, preprocessing, connecting and mining those data. I have alredy worked with few high value use case in Insurance, Marketing and Edge Computing like Drone where I built Random Forest, XGBoost, SVM, Regression and Image Classifiaction. Some of these model developed end-to-end in Dataiku DSS Platform. </p>
 <p style="text-align:justify">
 Projects I worked on include Text Pre-processing for NLP in the documents management system, Integrated Data Intelligence (IDI), and applied cutting-edge Computer Vision skills  for POC in face recognition & counting for productivity measurements. More details about this project can be found here:
-<p class="text-center"><a href="https://ssulaihasubi.github.io/portfolio/" class="btn btn--info">View My Portfolio</a></p> </p>
+<p class="text-center"><a href="https://sulaihasubi.github.io/portfolio/" class="btn btn--info">View My Portfolio</a></p> </p>
 
 
 Competition
