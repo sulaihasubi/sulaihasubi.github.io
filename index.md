@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /index/
 title: "About"
 redirect_from: 
   - /index/
