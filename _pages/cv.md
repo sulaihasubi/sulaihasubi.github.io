@@ -22,18 +22,11 @@ title: "Curriculum Vitae"
 <h4 style="text-align:left;"> RiseHill Data Analysis, <span style="float:right;">
          Kuala Lumpur, MY
     </span></h4> 
-<p style="text-align:left;"> <strong><em>July 2020 - Present,<span style="float:right;">
-         Kuala Lumpur, MY
-    </span></em></strong></p>
+<p style="text-align:left;"> <strong><em>Data Scientist,<span style="float:right;">
+         Jun 2021 - Present</span></em></strong></p>
 
-<p style="text-align:left;">
-    RiseHill Data Analysis
-    <span style="float:right;">
-         Kuala Lumpur, MY
-    </span>
-</p>
 
-<ul>
+<ul style="text-align:justify">
   <li>Ensure the data quality by performing data cleaning, normalization & enrichment </li>
   <li>Working on every aspect of Data Analytics and Predictive Modelling</li>
   <li>Develop  data models and algorithms to apply to data sets</li>
