@@ -132,8 +132,9 @@ I frequently publish articles to discuss recent research in Natural Language Pro
 🦾 Skills
 ---
 <li><strong>Programming Languages:</strong> Python, JSON, HTML, HTML5, CSS, PHP, Java, C++, Python, R, Java Script, Prolog, XML, LateX</li>
-<li><strong>NLP:</strong> <a href="mailto:ssulaihasubi@gmail.com">ssulaihasubi@gmail.com</a></li>
-<li><strong>Computer Vision:</strong> <a href="mailto:ssulaihasubi@gmail.com">ssulaihasubi@gmail.com</a></li>
+<li><strong>NLP:</strong> Named Entity Recognition (NER), Text Pre-Processing using SpaCy</li>
+<li><strong>Computer Vision:</strong> Face Recognition, Video Analysis, Image Processing, OCR</li>
+<li><strong>Others:</strong> AWS EC2, Dataiku, Tableau, SAS,  DAGSHub, Data Vision Control (DVC)</li>
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
 <aside class="sidebar__right ">
