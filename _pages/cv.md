@@ -126,7 +126,8 @@ title: "Curriculum Vitae"
 📝 Projects & Publications
 ---
 <p style="text-align:justify">
-I frequently publish articles to discuss recent research in Natural Language Processing and open-source projects applying state-of-the-art AI technologies. Please visit my blog and portfolio for more details.</p>
+
+Please visit my <a href="https://community.dataiku.com">Publication</a> and <a href="https://community.dataiku.com">Portfolio</a>for more details.</p>
 
 
 🦾 Skills
