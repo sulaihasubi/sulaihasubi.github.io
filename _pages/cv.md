@@ -36,9 +36,6 @@ title: "Curriculum Vitae"
 </ul>
 
 ---
-<!-- <h4> Data Scientist, RiseHill Data Analysis </h4> 
-<p><strong><em>July 2020 - Present, Brooklyn, NY</em></strong></p> -->
-
 <h4 style="text-align:left;">Omdena<span style="float:right;">
          New York, NY</span></h4> 
 <p style="text-align:left;"><em>Machine Learning Engineer (Part-Time)<span style="float:right;">
@@ -105,7 +102,7 @@ title: "Curriculum Vitae"
   <li>Knowledgeable in how to image processing, image classification, object detection to image segmentation, using the Deeplearning4j framework</li>
   <li>Knowledge in machine/deep learning, optimization, probability theory, and statistical inference</li>
   <li>Powerfully used programming in Java using IntelliJ IDEA and Python</li>
-  <li>Achievement: Utilize extensive knowledge in deep learning to complete a Computer Vision Project (Face Recognition) within two days (meet the project timelines)</li>
+  <li><strong>Achievement:</strong> Utilize extensive knowledge in deep learning to complete a Computer Vision Project (Face Recognition) within two days (meet the project timelines)</li>
 </ul>
 
 🎓 Education
