@@ -145,6 +145,8 @@ author:
   avatar : "/assets/images/dp.png"
   bio    : "Data Scientist"
   links:
+    - label: "Kuala Lumpur, MHY"
+      icon: "fas fa-fw fa-map-marker-alt"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:ssulaihasubi@gmail.com"
