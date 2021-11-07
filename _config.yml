@@ -185,16 +185,17 @@ footer:
 # Defaults
 defaults:
   # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
+  - scope:
+      path: ""
+      type: pages #posts
+    values:
+      layout: single
+      author_profile: true
+      # read_time: true
+      # comments: # true
+      # share: true
+      # related: true
+
   # _pages
   - scope:
       path: "_pages"
@@ -202,6 +203,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
   # _portfolio
   - scope:
       path: ""
@@ -211,6 +213,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      
   # _publications
   - scope:
       path: ""
