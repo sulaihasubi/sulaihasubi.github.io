@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /_pages/about.md  
 title: "About"
 author_profile: true
 redirect_from: 
