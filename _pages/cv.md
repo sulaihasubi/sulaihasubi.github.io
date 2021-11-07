@@ -108,5 +108,5 @@ title: "Curriculum Vitae"
   <li>Achievement: Utilize extensive knowledge in deep learning to complete a Computer Vision Project (Face Recognition) within two days (meet the project timelines)</li>
 </ul>
 
-🏆 PROJECTS & COMPETITIONS
+🎓 Education
 ---
