@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  overlay_image: assets/images/banner.jpg
+  overlay_image: assets/images/banner.jpeg
 ---
 
 <p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p>
@@ -56,4 +56,3 @@ One of the biggest achievment in my life is getting black belt 1st Dan in Taekwo
   <li class=""><a href="#career-objective">Career Objective</a></li>
   <li class=""><a href="#competition">Competition</a></li>
   <li class=""><a href="#hobbies-taekwondo--yoga">Hobbies: Taekwondo & Yoga</a>
-  </p>
