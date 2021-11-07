@@ -110,6 +110,14 @@ title: "Curriculum Vitae"
 
 🎓 Education
 ---
+<h4 style="text-align:left;">University Malaysia Sarawak (UNIMAS)<span style="float:right;">
+         Kuching, SWK</span></h4> 
+<p style="text-align:left;"><em>Junior Deep Learning Engineer (Trainee)<span style="float:right;">
+         Apr 2020 – Jun 2020</span></em></p>
+<ul style="text-align:justify">
+  <li>Trained by Skymind’s experienced Deep Learning Engineer on how to effectively use Deep Learning tools to create Computer Vision Models for productions</li>
+
+
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
 <aside class="sidebar__right ">
