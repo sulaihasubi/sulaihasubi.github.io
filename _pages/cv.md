@@ -19,7 +19,7 @@ title: "Curriculum Vitae"
 ---
 <!-- <h3 id="risehill-data-analysis"> RiseHill Data Analysis  -->
 
-<h4> Data Scientist, RiseHill Data Analysis </h4> 
+<h1> Data Scientist, RiseHill Data Analysis </h1> 
 
 
  <li> testing</li>
