@@ -50,3 +50,12 @@ One of the biggest achievment in my life is getting black belt 1st Dan in Taekwo
 <blockquote>
   <p>“The quote that always push me to the new level in life is everything we do is a process, keep going even the process taking longer because rome was not built in a day”</p>
 </blockquote>
+
+<!-- This is for Sidebar Menu on the Rigth Side -->
+<aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
+              <ul class="toc__menu">
+  <li class=""><a href="#-career-objective">Career Objective</a></li>
+  <li class=""><a href="#-competition">Competition</a></li>
+  <li class=""><a href="#-education">Hobbies: Taekwondo & Yoga</a>
