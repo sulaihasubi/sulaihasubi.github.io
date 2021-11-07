@@ -117,11 +117,12 @@ title: "Curriculum Vitae"
 <ul style="text-align:justify">
   <li>Major in Information System</li>
 
-<h4 style="text-align:left;">Labuan Matriculation College<span style="float:right;">
-         Labuan, FT</span></h4> 
-<p style="text-align:left;"><em>Bachelor of Computer Science with Honours (Information Systems)<span style="float:right;">
-         2013 –  2014</span></em></p>
+<h4 style="text-align:left;">University Malaysia Sarawak (UNIMAS)<span style="float:right;">
+         Kuching, SWK</span></h4> 
+<p style="text-align:left;"><em>Bachelor of Computer Science with Honours <span style="float:right;">
+         2014 –  2019</span></em></p>
 <ul style="text-align:justify">
+  <li>Major in Information System</li>
  
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
