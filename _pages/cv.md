@@ -123,7 +123,7 @@ title: "Curriculum Vitae"
 <p style="text-align:left;"><em>Biology, Chemistry, Computer Science<span style="float:right;">
          2013 –  2014</span></em></p>
 <ul style="text-align:justify">
-  <li>Biology, Chemistry, Computer Science</li>
+  <li>Core Subjects: Biology, Chemistry, Computer Science</li>
 </ul>
 
 
