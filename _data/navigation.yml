@@ -1,8 +1,8 @@
 main:
-  - title: "Portfolio"
-    url: /posts/
-  - title: "Publications"
-    url: /categories/
+  # - title: "Portfolio"
+  #   url: /posts/
+  # - title: "Publications"
+  #   url: /categories/
   - title: "CV"
     url: /cv/
   - title: "About"
