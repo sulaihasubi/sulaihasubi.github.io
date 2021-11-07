@@ -41,7 +41,8 @@ More details about the use case, can be read here: <a href="https://community.da
 
 Hobbies: Taekwondo & Yoga
 ---
-One of the biggest achievment in my life is getting black belt 1st Dan in Taekwondo (Taekwondo Malaysia). Not limited to Taekwondo, I love doing Yoga during my leasure time to increase my flexibility and endurance!
+<p style="text-align:justify">
+One of the biggest achievment in my life is getting black belt 1st Dan in Taekwondo (Taekwondo Malaysia). Not limited to Taekwondo, I love doing Yoga during my leasure time to increase my flexibility and endurance!</p>
 
 <img src="https://media-exp1.licdn.com/dms/image/C562DAQED_LKC5TUx0A/profile-treasury-image-shrink_1920_1920/0/1598848275051?e=1636275600&amp;v=beta&amp;t=TDZkPoPYpxx8Iq0IDhjaF1RvOHO7akACpxiUL54LVxs" loading="lazy" alt="" id="ember641" class="ivm-view-attr__img--centered pv-overlay-view-content__image-view-model lazy-image ember-view">
 
