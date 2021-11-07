@@ -122,7 +122,7 @@ title: "Curriculum Vitae"
       <li class=""><a href="">RiseHill Data Analysis</a></li>
       <li class=""><a href="">Omdena</a></li>
       <li class=""><a href="">PULSY Technolgy</a></li>
-      <li class=""><a href=""></a>Terra Weather (Apprenticeship)</li>
+      <li class=""><a href="">Terra Weather (Apprenticeship)</a></li>
       <li class=""><a href="">Shoppegram</a></li>
       <li class=""><a href="">Skymind</a></li>
       <!-- <li class=""><a href="#business-analytics-competition--conference-2018--manhattan-college">Business Analytics Competition &amp; Conference 2018 @ Manhattan College</a></li> -->
