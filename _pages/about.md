@@ -4,9 +4,6 @@ title: "About"
 redirect_from: 
   - /about/
   - /about.html
-
-sidebar:
-  nav: "side"
 ---
 <p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p>
 
