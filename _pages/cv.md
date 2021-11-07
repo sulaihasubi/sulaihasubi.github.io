@@ -116,7 +116,7 @@ title: "Curriculum Vitae"
          2014 –  2019</span></em></p>
 <ul style="text-align:justify">
   <li>Major in Information System</li>
-
+---
 <h4 style="text-align:left;">University Malaysia Sarawak (UNIMAS)<span style="float:right;">
          Kuching, SWK</span></h4> 
 <p style="text-align:left;"><em>Bachelor of Computer Science with Honours <span style="float:right;">
