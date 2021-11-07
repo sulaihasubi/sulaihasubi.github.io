@@ -110,3 +110,32 @@ title: "Curriculum Vitae"
 
 🎓 Education
 ---
+
+
+<aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><svg class="svg-inline--fa fa-bookmark fa-w-12" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bookmark" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" data-fa-i2svg=""><path fill="currentColor" d="M0 512V48C0 21.49 21.49 0 48 0h288c26.51 0 48 21.49 48 48v464L192 400 0 512z"></path></svg><!-- <i class="fas fa-bookmark"></i> Font Awesome fontawesome.com --> Table of Contents</h4></header>
+              <ul class="toc__menu">
+  <li class=""><a href="#-contact">📧 Contact</a></li>
+  <li class=""><a href="#-experience">💼 Experience</a>
+    <ul>
+      <li class=""><a href="#etsy-inc">Etsy, Inc.</a></li>
+      <li class=""><a href="#skim-ai-technologies-inc">Skim AI Technologies, Inc.</a></li>
+      <li class=""><a href="#aurubis-buffalo-inc">Aurubis Buffalo, Inc.</a></li>
+      <li class=""><a href="#tax-technologies-inc">Tax Technologies, Inc.</a></li>
+      <li class=""><a href="#niagara-university---academic-success-center">Niagara University - Academic Success Center</a></li>
+      <li class=""><a href="#business-analytics-competition--conference-2018--manhattan-college">Business Analytics Competition &amp; Conference 2018 @ Manhattan College</a></li>
+    </ul>
+  </li>
+  <li class=""><a href="#-education">🎓 Education</a>
+    <ul>
+      <li class=""><a href="#university-of-rochester">University of Rochester</a></li>
+      <li class=""><a href="#niagara-university">Niagara University</a></li>
+    </ul>
+  </li>
+  <li><a href="#-projects-and-articles">📝 Projects and Articles</a></li>
+  <li class=""><a href="#-skills">🤖 Skills</a></li>
+</ul>
+
+            </nav>
+          </aside>
