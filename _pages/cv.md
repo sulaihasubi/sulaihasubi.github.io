@@ -19,8 +19,12 @@ title: "Curriculum Vitae"
 ---
 <!-- <h3 id="risehill-data-analysis"> RiseHill Data Analysis  -->
 
-<h4>RiseHill Data Analysis, Kuala Lumpur, MY </h4> 
-<p><strong><em>July 2020 - Present, Brooklyn, NY</em></strong></p>
+<h4 style="text-align:left;"> RiseHill Data Analysis, <span style="float:right;">
+         Kuala Lumpur, MY
+    </span></h4> 
+<p style="text-align:left;"> <strong><em>July 2020 - Present,<span style="float:right;">
+         Kuala Lumpur, MY
+    </span></em></strong></p>
 
 <p style="text-align:left;">
     RiseHill Data Analysis
