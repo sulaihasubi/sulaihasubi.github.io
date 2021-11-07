@@ -1,10 +1,10 @@
-<!-- ---
-permalink: /index/
+---
+permalink: /about/
 title: "About"
 redirect_from: 
-  - /index/
-  - /index.html
---- -->
+  - /about/
+  - /about.html
+---
 
 <p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p>
 
