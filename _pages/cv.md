@@ -20,6 +20,9 @@ title: "Curriculum Vitae"
 <!-- <h3 id="risehill-data-analysis"> RiseHill Data Analysis  -->
 
 <h1> Data Scientist, RiseHill Data Analysis </h1> 
+<p><strong><em>Computer Vision Intern</em></strong></p>
+<p><em>July 2020 - Present, Brooklyn, NY</em></p>
+<li>Applied cutting-edge Computer Vision research to improve personalization and image-based recommendations.</li>
 
 
  <li> testing</li>
