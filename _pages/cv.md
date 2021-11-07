@@ -30,18 +30,39 @@ title: "Curriculum Vitae"
 </p>
 
 <ul>
-  <li>Applied cutting-edge Computer Vision research to improve personalization and image-based recommendations.</li>
-  <li>Developed and trained Deep Siamese model to extract aesthetic features from listing pictures to recommend style-matching items.</li>
-  <li>Trained object detection and image segmentation models on Etsy’s datasets with Detectron2.</li>
+  <li>Ensure the data quality by performing data cleaning, normalization & enrichment </li>
+  <li>Working on every aspect of Data Analytics and Predictive Modelling</li>
+  <li>Develop  data models and algorithms to apply to data sets</li>
+  <li>Used Machine Learning algorithms & statistical techniques to produce solutions to the business problems</li>
+  <li>Conduct research from which to develop prototypes and proof of concepts (POC) </li>
+  <li>Built ML workflow & designated experiments to supply tailored reports to the manager, and  potential clients</li>
+  <li>Applied cutting-edge Computer Vision skills  for POC in face recognition & counting for productivity measurements</li>
+  <li>Built and test Machine Learning model in Dataiku DSS Platform to select the most appropriate ones for use on a project</li>
+  <li>Develop new client relationships/potential collaboration</li>
+  <li>Meet & present the company's product/services & highly responsible to prepare high business value commercial proposals across different domains of the industries (client-facing skills)</li>
 </ul>
 
 ---
 <h4> Data Scientist, RiseHill Data Analysis </h4> 
 <p><strong><em>July 2020 - Present, Brooklyn, NY</em></strong></p>
 <ul>
-  <li>Applied cutting-edge Computer Vision research to improve personalization and image-based recommendations.</li>
-  <li>Developed and trained Deep Siamese model to extract aesthetic features from listing pictures to recommend style-matching items.</li>
-  <li>Trained object detection and image segmentation models on Etsy’s datasets with Detectron2.</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
 
+---
+<h4> Data Scientist, RiseHill Data Analysis </h4> 
+<p><strong><em>July 2020 - Present, Brooklyn, NY</em></strong></p>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 
