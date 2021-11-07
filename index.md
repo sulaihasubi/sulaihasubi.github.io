@@ -6,13 +6,6 @@ redirect_from:
   - /index.html
 --- -->
 
----
-
-layout: single
-author_profile: true
-
----
-
 <p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p>
 
 <!-- CTA Button for the CV, Portfolio and LinkedIn -->
