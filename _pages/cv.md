@@ -20,15 +20,20 @@ title: "Curriculum Vitae"
 <!-- <h3 id="risehill-data-analysis"> RiseHill Data Analysis  -->
 
 <h4> Data Scientist, RiseHill Data Analysis </h4> 
-<p><strong><em>Computer Vision Intern                 July 2020 - Present, Brooklyn, NY</em></strong></p>
-<p><em>July 2020 - Present, Brooklyn, NY</em></p>
-<li>Applied cutting-edge Computer Vision research to improve personalization and image-based recommendations.</li>
+<p><strong><em>July 2020 - Present, Brooklyn, NY</em></strong></p>
+<ul>
+  <li>Applied cutting-edge Computer Vision research to improve personalization and image-based recommendations.</li>
+  <li>Developed and trained Deep Siamese model to extract aesthetic features from listing pictures to recommend style-matching items.</li>
+  <li>Trained object detection and image segmentation models on Etsy’s datasets with Detectron2.</li>
+</ul>
 
 ---
-<!-- <h3 id="risehill-data-analysis"> RiseHill Data Analysis  -->
-
 <h4> Data Scientist, RiseHill Data Analysis </h4> 
-<p><strong><em>Computer Vision Intern</em></strong></p>
-<p><em>July 2020 - Present, Brooklyn, NY</em></p>
-<li>Applied cutting-edge Computer Vision research to improve personalization and image-based recommendations.</li>
+<p><strong><em>July 2020 - Present, Brooklyn, NY</em></strong></p>
+<ul>
+  <li>Applied cutting-edge Computer Vision research to improve personalization and image-based recommendations.</li>
+  <li>Developed and trained Deep Siamese model to extract aesthetic features from listing pictures to recommend style-matching items.</li>
+  <li>Trained object detection and image segmentation models on Etsy’s datasets with Detectron2.</li>
+</ul>
+
 
