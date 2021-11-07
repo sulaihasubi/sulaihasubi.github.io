@@ -1,6 +1,6 @@
 main:
-  # - title: "Portfolio"
-  #   url: /posts/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Publications"
     url: /publication/
   - title: "CV"
