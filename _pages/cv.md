@@ -126,6 +126,10 @@ title: "Curriculum Vitae"
   <li>Core Subjects: Biology, Chemistry, Computer Science</li>
 </ul>
 
+📝 Projects & Publications
+---
+<p style="text-align:justify">
+I frequently publish articles to discuss recent research in Natural Language Processing and open-source projects applying state-of-the-art AI technologies. Please visit my blog and portfolio for more details.</p>
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
