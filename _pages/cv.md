@@ -114,7 +114,7 @@ title: "Curriculum Vitae"
 <!-- This is for Sidebar Menu on the Rigth Side -->
 <aside class="sidebar__right ">
             <nav class="toc">
-              <header><h4 class="nav__title"><i class="fas fa-bookmark"></i>Table of Contents</h4></header>
+              <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
   <li class=""><a href="#-contact-me">📧 Contact Me</a></li>
   <li class=""><a href="#-experience">💻 Experiences</a>
