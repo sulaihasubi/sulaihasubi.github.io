@@ -80,29 +80,33 @@ title: "Curriculum Vitae"
 </ul>
 
 ---
-<h4 style="text-align:left;">Omdena<span style="float:right;">
-         New York, NY</span></h4> 
-<p style="text-align:left;"><em>Machine Learning Engineer (Part-Time)<span style="float:right;">
-         Sep 2021 - Present</span></em></p>
+<h4 style="text-align:left;">Shoppegram<span style="float:right;">
+         Cyberjaya, MY</span></h4> 
+<p style="text-align:left;"><em>Digital Marketer<span style="float:right;">
+         Sep 2020 – Apr 2021</span></em></p>
 <ul style="text-align:justify">
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Product Research & Product Sourcing</li>
+  <li>Manage E-Commerce Store & Run Facebook campaigns for each product</li>
+  <li>Analyze data and report</li>
+  <li>Manage supply chain</li>
 </ul>
 
 ---
-<h4 style="text-align:left;">Omdena<span style="float:right;">
-         New York, NY</span></h4> 
-<p style="text-align:left;"><em>Machine Learning Engineer (Part-Time)<span style="float:right;">
-         Sep 2021 - Present</span></em></p>
+<h4 style="text-align:left;">Skymind<span style="float:right;">
+         Kuala Lumpur, MY</span></h4> 
+<p style="text-align:left;"><em>Junior Deep Learning Engineer (Trainee)<span style="float:right;">
+         Apr 2020 – Jun 2020</span></em></p>
 <ul style="text-align:justify">
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Trained by Skymind’s experienced Deep Learning Engineer on how to effectively use Deep Learning tools to create Computer Vision Models for productions</li>
+  <li>Understand the state of the art of advanced machine/deep learning concepts, theory, and applications Deep Learning model development from deploying deep learning to production</li>
+  <li>Hands-on with a large data set, learn algorithms, build models, and verify them </li>
+  <li>Improved (fine-tune) deep learning models</li>
+  <li>Used advanced techniques and algorithms of Deep Learning for Computer Vision</li>
+  <li>Knowledgeable in how to image processing, image classification, object detection to image segmentation, using the Deeplearning4j framework</li>
+  <li>Knowledge in machine/deep learning, optimization, probability theory, and statistical inference</li>
+  <li>Powerfully used programming in Java using IntelliJ IDEA and Python</li>
+  <li>Achievement: Utilize extensive knowledge in deep learning to complete a Computer Vision Project (Face Recognition) within two days (meet the project timelines)</li>
 </ul>
+
+🏆 PROJECTS & COMPETITIONS
+---
