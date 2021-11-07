@@ -56,6 +56,6 @@ One of the biggest achievment in my life is getting black belt 1st Dan in Taekwo
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
-  <li class=""><a href="#-career-objective">Career Objective</a></li>
-  <li class=""><a href="#-competition">Competition</a></li>
-  <li class=""><a href="#-education">Hobbies: Taekwondo & Yoga</a>
+  <li class=""><a href="#career-objective">Career Objective</a></li>
+  <li class=""><a href="#competition">Competition</a></li>
+  <li class=""><a href="#hobbies-taekwondo--yoga">Hobbies: Taekwondo & Yoga</a>
