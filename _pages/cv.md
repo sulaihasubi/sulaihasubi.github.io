@@ -36,9 +36,57 @@ title: "Curriculum Vitae"
 </ul>
 
 ---
-<h4> Data Scientist, RiseHill Data Analysis </h4> 
-<p><strong><em>July 2020 - Present, Brooklyn, NY</em></strong></p>
-<ul>
+<!-- <h4> Data Scientist, RiseHill Data Analysis </h4> 
+<p><strong><em>July 2020 - Present, Brooklyn, NY</em></strong></p> -->
+
+<h4 style="text-align:left;">Omdena<span style="float:right;">
+         New York, NY</span></h4> 
+<p style="text-align:left;"><em>Machine Learning Engineer (Part-Time)<span style="float:right;">
+         Sep 2021 - Present</span></em></p>
+<ul style="text-align:justify">
+  <li>One of the collaborators out of 47 AI Engineers from 18 Countries (8 weeks challenge)</li>
+  <li>Build an automated plant health prediction model, using drone-derived multispectral and thermal data combined with weather and irrigation data</li>
+  <li>Train a model to detect water stress, pest infestation, and man-made plant stress</li>
+  <li><strong>Tools:</strong> QGIS, DAGsHub, GoogleColab, DVC</li>
+  <li></li>
+  <li></li>
+</ul>
+
+---
+<h4 style="text-align:left;">PULSY Technology <span style="float:right;">
+         Cyberjaya, MY</span></h4> 
+<p style="text-align:left;"><em>Associate Software Engineer<span style="float:right;">
+         Apr 2021</span></em></p>
+<ul style="text-align:justify">
+  <li>Monitor and maintain the current system of Novartis and CBRE such as debugging and  keep eye on the functionality  of the systems</li>
+  <li>Monitor AWS Management Console of Novartis and CBRE to manage their resources and well functions</li>
+  <li>Provide documentation for the design, development, integrations, and deployment of the web app</li>
+  <li>Work with IoT Engineer to perform and design testing protocols/prototypes to ensure that the product is fully tested before the deployment</li>
+  <li>Ensure that all enhancements, bug fixes, and tasks assigned are well documented </li>
+  <li>Able to teach and presents the programming or back end part to other team members to ensure they understand how the code works and functions at the back end side</li>
+  <li>Contributor to the team member to ensure the project requirements are met</li>
+</ul>
+
+---
+<h4 style="text-align:left;">Terra Weather (Apprenticeship)<span style="float:right;">
+        Singapore, SG</span></h4> 
+<p style="text-align:left;"><em>Deep Learning Infrastructure Development<span style="float:right;">
+         Sep 2020 – Apr 2021</span></em></p>
+<ul style="text-align:justify">
+  <li>Part-time Apprenticeship</li>
+  <li>Develop new TW Caffe layers enhance data processing pipeline</li>
+  <li>Optimize the TW Caffe backend</li>
+  <li>Develop new layers using C++ and Smojo</li>
+  <li>Extend the Willow of Smojo-to-C compiler</li>
+  <li>Integrating open-source framework, ZeroMQ to streaming real-time I/O using C++</li>
+</ul>
+
+---
+<h4 style="text-align:left;">Omdena<span style="float:right;">
+         New York, NY</span></h4> 
+<p style="text-align:left;"><em>Machine Learning Engineer (Part-Time)<span style="float:right;">
+         Sep 2021 - Present</span></em></p>
+<ul style="text-align:justify">
   <li></li>
   <li></li>
   <li></li>
@@ -47,15 +95,4 @@ title: "Curriculum Vitae"
   <li></li>
 </ul>
 
----
-<h4> Data Scientist, RiseHill Data Analysis </h4> 
-<p><strong><em>July 2020 - Present, Brooklyn, NY</em></strong></p>
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
 
