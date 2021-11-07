@@ -119,18 +119,19 @@ title: "Curriculum Vitae"
   <li class=""><a href="#-contact-me">📧 Contact Me</a></li>
   <li class=""><a href="#-experience">💻 Experiences</a>
     <ul>
-      <li class=""><a href="#etsy-inc">Etsy, Inc.</a></li>
-      <li class=""><a href="#skim-ai-technologies-inc">Skim AI Technologies, Inc.</a></li>
-      <li class=""><a href="#aurubis-buffalo-inc">Aurubis Buffalo, Inc.</a></li>
-      <li class=""><a href="#tax-technologies-inc">Tax Technologies, Inc.</a></li>
-      <li class=""><a href="#niagara-university---academic-success-center">Niagara University - Academic Success Center</a></li>
-      <li class=""><a href="#business-analytics-competition--conference-2018--manhattan-college">Business Analytics Competition &amp; Conference 2018 @ Manhattan College</a></li>
+      <li class=""><a href="">RiseHill Data Analysis</a></li>
+      <li class=""><a href="">Omdena</a></li>
+      <li class=""><a href="">PULSY Technolgy</a></li>
+      <li class=""><a href=""></a>Terra Weather (Apprenticeship)</li>
+      <li class=""><a href="">Shoppegram</a></li>
+      <li class=""><a href="">Skymind</a></li>
+      <!-- <li class=""><a href="#business-analytics-competition--conference-2018--manhattan-college">Business Analytics Competition &amp; Conference 2018 @ Manhattan College</a></li> -->
     </ul>
   </li>
   <li class=""><a href="#-education">🎓 Education</a>
     <ul>
-      <li class=""><a href="#university-of-rochester">University of Rochester</a></li>
-      <li class=""><a href="#niagara-university">Niagara University</a></li>
+      <li class=""><a href="">University of Malaysia Sarawak (UNIMAS)</a></li>
+      <li class=""><a href="">Labuan Matriculation College</a></li>
     </ul>
   </li>
   <li><a href="#-projects-and-articles">📝 Projects and Articles</a></li>
