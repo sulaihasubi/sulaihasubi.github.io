@@ -210,6 +210,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
+# Sidebar Menu
+sidebar:
+  nav: "side"
+
 
 category_archive:
   type: liquid
