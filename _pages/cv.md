@@ -132,6 +132,10 @@ title: "Curriculum Vitae"
 I frequently publish articles to discuss recent research in Natural Language Processing and open-source projects applying state-of-the-art AI technologies. Please visit my blog and portfolio for more details.</p>
 
 
+🦾 Skills
+---
+ <li> Email: <a href="mailto:ssulaihasubi@gmail.com">ssulaihasubi@gmail.com</a></li>
+
 <!-- This is for Sidebar Menu on the Rigth Side -->
 <aside class="sidebar__right ">
             <nav class="toc">
