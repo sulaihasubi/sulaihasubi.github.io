@@ -19,8 +19,16 @@ title: "Curriculum Vitae"
 ---
 <!-- <h3 id="risehill-data-analysis"> RiseHill Data Analysis  -->
 
-<h4> Data Scientist, RiseHill Data Analysis </h4> 
+<h4>RiseHill Data Analysis, Kuala Lumpur, MY </h4> 
 <p><strong><em>July 2020 - Present, Brooklyn, NY</em></strong></p>
+
+<p style="text-align:left;">
+    RiseHill Data Analysis
+    <span style="float:right;">
+         Kuala Lumpur, MY
+    </span>
+</p>
+
 <ul>
   <li>Applied cutting-edge Computer Vision research to improve personalization and image-based recommendations.</li>
   <li>Developed and trained Deep Siamese model to extract aesthetic features from listing pictures to recommend style-matching items.</li>
