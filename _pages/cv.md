@@ -159,8 +159,8 @@ I frequently publish articles to discuss recent research in Natural Language Pro
       <li class=""><a href="">Labuan Matriculation College</a></li>
     </ul>
   </li>
-  <li><a href="#-projects-and-articles">📝 Projects and Articles</a></li>
-  <li class=""><a href="#-skills">🤖 Skills</a></li>
+  <li><a href="#-projects-and-articles">📝 Projects & Publications</a></li>
+  <li class=""><a href="#-skills">🦾 Skills</a></li>
 </ul>
 
             </nav>
