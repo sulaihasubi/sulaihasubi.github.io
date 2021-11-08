@@ -4,7 +4,7 @@ title: "Portfolio"
 ---
 
 ## 🤖 Computer Vision
-### POC: Face Recognition & People Counting for Productivity Measurement
+<h3> POC: Face Recognition & People Counting for Productivity Measurement</h3>
 
 test test [***POC: Face Recognition & People Counting for Productivity Measurement***](https://github.com/sulaihasubi/Person-Detection-and-Counting)
 
