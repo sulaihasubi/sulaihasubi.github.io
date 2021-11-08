@@ -29,8 +29,8 @@ test test test [***Face Recognition with Java***](https://github.com/sulaihasubi
   </li>
   <li class=""><a href="#-education">📖 Natural Language Processing (NLP)</a>
     <ul>
-      <li class=""><a href="">University of Malaysia Sarawak (UNIMAS)</a></li>
-      <li class=""><a href="">Labuan Matriculation College</a></li>
+      <li class=""><a href="">Test 1</a></li>
+      <li class=""><a href="">Test 2</a></li>
     </ul>
   </li>
 </ul>
