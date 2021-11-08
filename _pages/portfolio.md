@@ -16,7 +16,7 @@ test test [***POC: Face Recognition & People Counting for Productivity Measureme
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
-<aside class="sidebar__right ">
+<!-- <aside class="sidebar__right ">
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
@@ -34,7 +34,4 @@ test test [***POC: Face Recognition & People Counting for Productivity Measureme
   </li>
   <li><a href="#-projects-and-articles">📝 Projects & Publications</a></li>
   <li class=""><a href="#-skills">🦾 Skills</a></li>
-</ul>
-
-            </nav>
-          </aside>
+</ul> -->
