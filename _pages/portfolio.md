@@ -2,8 +2,8 @@
 permalink: /portfolio/
 title: "Portfolio"
 ---
-## Computer Vision
-### POC: Face Recognition & People Counting for Productivity Measurement
+Computer Vision
+POC: Face Recognition & People Counting for Productivity Measurement
 
 nn [***POC: Face Recognition & People Counting for Productivity Measurement***](https://github.com/sulaihasubi/Person-Detection-and-Counting)
 
