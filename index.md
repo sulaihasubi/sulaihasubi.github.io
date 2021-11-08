@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-excerpt: 'I am willing to relocate in Shanghai, from June 2020. I am looking for new career opportunities.'
+excerpt: 'I currently active looking for new career opportunities.'
 header:
   overlay_image: assets/images/banner.jpeg
 ---
