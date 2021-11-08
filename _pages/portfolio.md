@@ -2,8 +2,11 @@
 permalink: /portfolio/
 title: "Portfolio"
 ---
-🤖 Computer Vision
----
+
+## 🤖 Computer Vision
+
+### POC: Face Recognition & People Counting for Productivity Measurement
+
 POC: Face Recognition & People Counting for Productivity Measurement
 
 test test [***POC: Face Recognition & People Counting for Productivity Measurement***](https://github.com/sulaihasubi/Person-Detection-and-Counting)
@@ -17,9 +20,9 @@ test test [***POC: Face Recognition & People Counting for Productivity Measureme
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
-  <li class=""><a href="#-experience">Computer Vision</a>
+  <li class=""><a href="#computer-vision">🤖 Computer Vision</a>
     <ul>
-      <li class=""><a href="">RiseHill Data Analysis</a></li>
+      <li class=""><a href="">POC: Face Recognition & People Counting for Productivity Measurement</a></li>
       <li class=""><a href="">Omdena</a></li>
     </ul>
   </li>
