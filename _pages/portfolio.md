@@ -2,15 +2,17 @@
 permalink: /portfolio/
 title: "Portfolio"
 ---
-<!-- <p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p> -->
+## Computer Vision
 
-<p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-05-11">Nov 06, 2021</time></p>
-<a href="https://sulaihasubi.github.io/files/sulaiha-subi-cv.pdf" class="btn btn--info">Download CV</a>
+### CS224n: Natural Language Processing with Deep Learning
 
+My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 
-📧 Contact Me
----
- <li> Email: <a href="mailto:ssulaihasubi@gmail.com">ssulaihasubi@gmail.com</a></li>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
- <li> LinkedIn: <a href="https://www.linkedin.com/in/sulaihasubi/">linkedin.com/in/sulaihasubi/</a></li>
+**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+
+**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+
+<center><img src="images/nlp.png"/></center>
 
