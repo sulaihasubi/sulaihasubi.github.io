@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 excerpt: 'I currently active looking for new career opportunities.'
 header:
-  overlay_image: assets/images/banner2.jpeg
+  overlay_image: assets/images/banner3.jpeg
 ---
 
 <p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p>
