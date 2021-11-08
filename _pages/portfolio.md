@@ -10,9 +10,9 @@ test test [***POC: Face Recognition & People Counting for Productivity Measureme
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Person-Detection-and-Counting)
 
-###### Project 2
+###### Face Recognition with Java
 
-test test test [***POC: Face Recognition & People Counting for Productivity Measurement***](https://github.com/sulaihasubi/Person-Detection-and-Counting)
+test test test [***Face Recognition with Java***](https://github.com/sulaihasubi/Person-Detection-and-Counting)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Person-Detection-and-Counting)
 
@@ -24,7 +24,7 @@ test test test [***POC: Face Recognition & People Counting for Productivity Meas
   <li class=""><a href="#-computer-vision">🤖 Computer Vision</a>
     <ul>
       <li class=""><a href="#poc-face-recognition--people-counting-for-productivity-measurement">POC: Face Recognition & People Counting for Productivity Measurement</a></li>
-      <li class=""><a href="">dd</a></li>
+      <li class=""><a href="">Face Recognition with Java</a></li>
     </ul>
   </li>
   <li class=""><a href="#-education">📖 Natural Language Processing (NLP)</a>
