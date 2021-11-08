@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-title: false
 header:
   overlay_image: assets/images/banner.jpeg
 ---
