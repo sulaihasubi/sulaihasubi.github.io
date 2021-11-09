@@ -21,13 +21,19 @@ test test test [***Face Recognition with Java***](https://github.com/sulaihasubi
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
-  <li class=""><a href="#-computer-vision">🤖&nbspComputer Vision</a>
+  <li class=""><a href="#-computer-vision">🤖 Computer Vision</a>
     <ul>
       <li class=""><a href="#poc-face-recognition--people-counting-for-productivity-measurement">POC: Face Recognition & People Counting for Productivity Measurement</a></li>
       <li class=""><a href="">Face Recognition with Java</a></li>
     </ul>
   </li>
-  <li class=""><a href="#-education">📖&nbspNatural Language Processing</a>
+  <li class=""><a href="#-education">📖 Natural Language Processing</a>
+    <ul>
+      <li class=""><a href="">Test 1</a></li>
+      <li class=""><a href="">Test 2</a></li>
+    </ul>
+  </li>
+  <li class=""><a href="#-data-science">📈Data Science</a>
     <ul>
       <li class=""><a href="">Test 1</a></li>
       <li class=""><a href="">Test 2</a></li>
