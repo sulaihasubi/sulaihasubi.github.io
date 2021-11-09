@@ -12,7 +12,7 @@ To identify key regions of productivity based on Facial Recognition, People Coun
  
 <p><img src="https://raw.githubusercontent.com/sulaihsubi/blob/main/video-results/enter-non-productive.gif" width="580" class="align-center"></p>
 
-
+<p> <img src="https://sulaihasubi.github.io/assets/output/enter-non-productive.gif" width="250" class="align-center"> </p>
 
 ###### Face Recognition with Java
 
