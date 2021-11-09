@@ -10,7 +10,7 @@ title: "Portfolio"
 <!-- [***POC: Face Recognition & People Counting for Productivity Measurement***](https://github.com/sulaihasubi/Person-Detection-and-Counting) -->
 <p><img src="https://sulaihasubi.github.io/assets/output/enter-non-productive.gif" class="align-center"></p>
 
-###### Face Recognition with Java
+###### Face Recognition in Java
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Face-Recognition)
 <p style="text-align:justify">This project will highlight the Face Recognition technique used to detect and recognize faces of individuals where it is involved in capturing people faces from a web camera.  It involves candidates and trainers of CERTIFAI Online CDLE. The individual’s images are categorized into two, which are the faces of trainers or candidates. These images are then saved in the face database. The model then should be able to analyze face’s features and match it with the information in a database and identify who there are.</p>
 <!-- [***Face Recognition with Java***](https://github.com/sulaihasubi/Person-Detection-and-Counting) -->
@@ -24,7 +24,7 @@ title: "Portfolio"
   <li class=""><a href="#-computer-vision">🤖 Computer Vision</a>
     <ul>
       <li class=""><a href="#poc-face-recognition--people-counting-for-productivity-measurement">POC: Face Recognition & People Counting for Productivity Measurement</a></li>
-      <li class=""><a href="#face-recognition-with-java">Face Recognition with Java</a></li>
+      <li class=""><a href="#face-recognition-with-java">Face Recognition in Java</a></li>
     </ul>
   </li>
   <li class=""><a href="#-education">📖 Natural Language Processing</a>
