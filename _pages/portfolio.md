@@ -10,7 +10,7 @@ To identify key regions of productivity based on Facial Recognition, People Coun
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Person-Detection-and-Counting)
  
-<p><img src="https://raw.githubusercontent.com/sulaihsubi/Person-Detection-and-Counting/main/video-results/enter-non-productive.gif" width="580" class="align-center"></p>
+<p><img src="https://raw.githubusercontent.com/sulaihsubi/blob/main/video-results/enter-non-productive.gif" width="580" class="align-center"></p>
 
 
 
