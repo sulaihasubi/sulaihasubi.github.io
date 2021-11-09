@@ -9,8 +9,7 @@ title: "Portfolio"
 To identify key regions of productivity based on Facial Recognition, People Counting and Duration (the time spent inside the designated regions) [***POC: Face Recognition & People Counting for Productivity Measurement***](https://github.com/sulaihasubi/Person-Detection-and-Counting)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Person-Detection-and-Counting)
-
-Face Recognition, count people based on the number of individuals detected. 
+ 
 <p><img src="https://raw.githubusercontent.com/sulaihsubi/Person-Detection-and-Counting/main/output/enter-non-productive.gif" width="580" class="align-center"></p>
 
 
