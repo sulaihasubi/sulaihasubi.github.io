@@ -11,9 +11,9 @@ To identify key regions of productivity based on Facial Recognition, People Coun
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Person-Detection-and-Counting)
 
 Face Recognition, count people based on the number of individuals detected. 
-<p><img src="https://raw.githubusercontent.com/chriskhanhtran/object-detection-detectron2/master/images/output_04.png" width="580" class="align-center"></p>
+<p><img src="https://raw.githubusercontent.com/sulaihsubi/Person-Detection-and-Counting/master/output/enter-non-productive.gif" width="580" class="align-center"></p>
 
- 
+
 
 ###### Face Recognition with Java
 
