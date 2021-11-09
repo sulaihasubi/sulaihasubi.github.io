@@ -33,7 +33,7 @@ test test test [***Face Recognition with Java***](https://github.com/sulaihasubi
       <li class=""><a href="">Test 2</a></li>
     </ul>
   </li>
-  <li class=""><a href="#-data-science">📈Data Science</a>
+  <li class=""><a href="#-data-science">📈 Data Science</a>
     <ul>
       <li class=""><a href="">Test 1</a></li>
       <li class=""><a href="">Test 2</a></li>
