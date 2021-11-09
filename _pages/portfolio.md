@@ -7,7 +7,7 @@ title: "Portfolio"
 ###### POC: Face Recognition & People Counting for Productivity Measurement
 
 To identify key regions of productivity based on Facial Recognition, People Counting and Duration (the time spent inside the designated regions) 
-<p>[***POC: Face Recognition & People Counting for Productivity Measurement***](https://github.com/sulaihasubi/Person-Detection-and-Counting)</p>
+[***POC: Face Recognition & People Counting for Productivity Measurement***](https://github.com/sulaihasubi/Person-Detection-and-Counting)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Person-Detection-and-Counting)
 
