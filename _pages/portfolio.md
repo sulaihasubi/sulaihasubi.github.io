@@ -29,14 +29,14 @@ title: "Portfolio"
   </li>
   <li class=""><a href="#-education">📖 Natural Language Processing</a>
     <ul>
-      <li class=""><a href="">Test 1</a></li>
-      <li class=""><a href="">Test 2</a></li>
+      <li class=""><a href="">Text Pre-Processing</a></li>
+      <li class=""><a href="">Named Entity Recognition (NER)</a></li>
     </ul>
   </li>
   <li class=""><a href="#-data-science">📈 Data Science</a>
     <ul>
-      <li class=""><a href="">Test 1</a></li>
-      <li class=""><a href="">Test 2</a></li>
+      <li class=""><a href="">Fraud Detection in Insurance Claim</a></li>
+      <li class=""><a href="">Fraud Detection in Customer Transaction</a></li>
     </ul>
   </li>
 </ul>
