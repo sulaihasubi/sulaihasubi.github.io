@@ -12,6 +12,8 @@ To identify key regions of productivity based on Facial Recognition, People Coun
  
 <p><img src="https://raw.githubusercontent.com/sulaihsubi/blob/main/video-results/enter-non-productive.gif" width="580" class="align-center"></p>
 
+1. Face Recognition, count people based on the number of individuals detected. 
+![Alt Text](https://github.com/sulaihasubi/Person-Detection-and-Counting/blob/main/video-results/enter-non-productive.gif)
 
 
 ###### Face Recognition with Java
