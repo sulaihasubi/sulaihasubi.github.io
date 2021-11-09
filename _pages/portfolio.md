@@ -27,7 +27,7 @@ test test test [***Face Recognition with Java***](https://github.com/sulaihasubi
       <li class=""><a href="">Face Recognition with Java</a></li>
     </ul>
   </li>
-  <li class=""><a href="#-education">📖 "" Natural Language Processing</a>
+  <li class=""><a href="#-education">📖 Natural Language Processing</a>
     <ul>
       <li class=""><a href="">Test 1</a></li>
       <li class=""><a href="">Test 2</a></li>
