@@ -12,12 +12,6 @@ To identify key regions of productivity based on Facial Recognition, People Coun
  
 <p><img src="https://raw.githubusercontent.com/sulaihsubi/blob/main/video-results/enter-non-productive.gif" width="580" class="align-center"></p>
 
-1. Face Recognition, count people based on the number of individuals detected. 
-![Alt Text](https://github.com/sulaihasubi/Person-Detection-and-Counting/blob/main/video-results/enter-non-productive.gif)
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><img src="images/nlp.png"/></center>
 
 
 ###### Face Recognition with Java
