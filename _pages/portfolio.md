@@ -16,8 +16,8 @@ title: "Portfolio"
 <!-- [***Face Recognition with Java***](https://github.com/sulaihasubi/Person-Detection-and-Counting) -->
 <p><img src="https://sulaihasubi.github.io/assets/output/sue1.png" class="align-center"></p>
 
-## 📖 Natural Language Processing
-
+## 📖 Natural Language Processing (NLP)
+###### Text Pre-Processing
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
