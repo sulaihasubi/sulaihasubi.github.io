@@ -18,7 +18,7 @@ title: "Portfolio"
 
 ## 📖 Natural Language Processing (NLP)
 ###### Text Pre-Processing
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/textpreprocessing-SpaCy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/tokenization-spaCy)
 <p><img src="https://sulaihasubi.github.io/assets/output/nlp.png" class="align-center"></p>
 
 
