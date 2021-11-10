@@ -45,7 +45,7 @@ One of the biggest achievment in my life is getting black belt 1st Dan in Taekwo
 
 
 <blockquote>
-  <p>“The quote that always push me to the new level in life is everything we do is a process, keep going even the process taking longer because rome was not built in a day”</p>
+  <p style="text-align:justify">“The quote that always push me to the new level in life is everything we do is a process, keep going even the process taking longer because rome was not built in a day”</p>
 </blockquote>
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
