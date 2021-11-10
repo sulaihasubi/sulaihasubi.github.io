@@ -33,9 +33,9 @@ title: "Portfolio"
       <li class=""><a href="#face-recognition-in-java">Face Recognition in Java</a></li>
     </ul>
   </li>
-  <li class=""><a href="#-education">📖 Natural Language Processing</a>
+  <li class=""><a href="#-natural-language-processing-nlp">📖 Natural Language Processing</a>
     <ul>
-      <li class=""><a href="">Text Pre-Processing</a></li>
+      <li class=""><a href="#text-pre-processing">Text Pre-Processing</a></li>
       <li class=""><a href="">Named Entity Recognition (NER)</a></li>
     </ul>
   </li>
