@@ -28,7 +28,7 @@ title: "Portfolio"
   <li class=""><a href="#-computer-vision">🤖 Computer Vision</a>
     <ul>
       <li class=""><a href="#poc-face-recognition--people-counting-for-productivity-measurement">POC: Face Recognition & People Counting for Productivity Measurement</a></li>
-      <li class=""><a href="#face-recognition-with-java">Face Recognition in Java</a></li>
+      <li class=""><a href="#face-recognition-in-java">Face Recognition in Java</a></li>
     </ul>
   </li>
   <li class=""><a href="#-education">📖 Natural Language Processing</a>
