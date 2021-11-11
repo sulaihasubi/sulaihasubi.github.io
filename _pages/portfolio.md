@@ -40,7 +40,7 @@ title: "Portfolio"
   </li>
   <li class=""><a href="#-natural-language-processing-nlp">📖 Natural Language Processing</a>
     <ul>
-      <li class=""><a href="#text-pre-processing">Tokenization with Spacy</a></li>
+      <li class=""><a href="#tokenization-with-spacy">Tokenization with Spacy</a></li>
       <li class=""><a href="">Named Entity Recognition (NER)</a></li>
     </ul>
   </li>
