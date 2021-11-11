@@ -25,7 +25,7 @@ Tokenization using spaCy
 [![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
 <p><img src="https://sulaihasubi.github.io/assets/output/nlp.png" class="align-center"></p>
 
-<p style="text-align:justify">For more details, please check it out in my <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Awards/RiseHill-Data-Analysis-Using-AI-to-combat-the-Rise-in-Corporate/ta-p/18184">Github</a></p>
+<p style="text-align:justify">For more details, please check it out in my <a href="https://github.com/sulaihasubi/tokenization-spaCy">Github Repository</a></p>
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
 <aside class="sidebar__right ">
