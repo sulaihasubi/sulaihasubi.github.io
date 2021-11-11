@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-excerpt: 'I currently active looking for new career opportunities.'
+excerpt: 'I currently active looking for better career opportunities.'
 header:
   overlay_image: assets/images/banner3.png
 ---
