@@ -18,8 +18,8 @@ title: "Portfolio"
 
 ## 📖 Natural Language Processing (NLP)
 
-Tokenization using spaCy
-========================
+###### Tokenization with spaCy
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/tokenization-spaCy)
 
 [![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
@@ -40,7 +40,7 @@ Tokenization using spaCy
   </li>
   <li class=""><a href="#-natural-language-processing-nlp">📖 Natural Language Processing</a>
     <ul>
-      <li class=""><a href="#text-pre-processing">Text Pre-Processing</a></li>
+      <li class=""><a href="#text-pre-processing">Tokenization with Spacy</a></li>
       <li class=""><a href="">Named Entity Recognition (NER)</a></li>
     </ul>
   </li>
