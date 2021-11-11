@@ -27,6 +27,13 @@ title: "Portfolio"
 
 <p style="text-align:justify">For more details, please check it out in my <a href="https://github.com/sulaihasubi/tokenization-spaCy">Github Repository</a></p>
 
+###### Named Entity Recognition (NER)
+
+
+
+
+
+
 <!-- This is for Sidebar Menu on the Rigth Side -->
 <aside class="sidebar__right ">
             <nav class="toc">
