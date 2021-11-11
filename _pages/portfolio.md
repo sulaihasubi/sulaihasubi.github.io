@@ -17,16 +17,15 @@ title: "Portfolio"
 <p><img src="https://sulaihasubi.github.io/assets/output/sue1.png" class="align-center"></p>
 
 ## 📖 Natural Language Processing (NLP)
-###### Text Pre-Processing
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/tokenization-spaCy)
 
 Tokenization using spaCy
 ========================
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/tokenization-spaCy)
+
 [![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
 <p><img src="https://sulaihasubi.github.io/assets/output/nlp.png" class="align-center"></p>
 
-<p style="text-align:justify">For more details about this text pre-processing, please check it out in my Github Profile</p>
-
+<p style="text-align:justify">For more details, please check it out in my <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Awards/RiseHill-Data-Analysis-Using-AI-to-combat-the-Rise-in-Corporate/ta-p/18184">Github</a></p>
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
 <aside class="sidebar__right ">
