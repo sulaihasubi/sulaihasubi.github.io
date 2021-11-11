@@ -48,7 +48,7 @@ title: "Portfolio"
   <li class=""><a href="#-natural-language-processing-nlp">📖 Natural Language Processing</a>
     <ul>
       <li class=""><a href="#tokenization-with-spacy">Tokenization with Spacy</a></li>
-      <li class=""><a href="">Named Entity Recognition (NER)</a></li>
+      <li class=""><a href="#named-entity-recognition-ner">Named Entity Recognition (NER)</a></li>
     </ul>
   </li>
   <li class=""><a href="#-data-science">📈 Data Science</a>
