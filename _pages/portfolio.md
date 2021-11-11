@@ -20,9 +20,8 @@ title: "Portfolio"
 
 ###### Tokenization with spaCy
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/tokenization-spaCy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/tokenization-spaCy)[![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
 
-[![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
 <p><img src="https://sulaihasubi.github.io/assets/output/nlp.png" class="align-center"></p>
 
 <p style="text-align:justify">For more details, please check it out in my <a href="https://github.com/sulaihasubi/tokenization-spaCy">Github Repository</a></p>
