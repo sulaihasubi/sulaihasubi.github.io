@@ -35,7 +35,7 @@ The purpose of this notebook is to demonstrate the entire process of name-entity
 <p style="text-align:justify">
 This will be a complete end-to-end demonstration of the entire process, including both labelling and model training.</p>
 <p style="text-align:justify">
-In this notebook, we train a model to detect entities related to oil/petrol from this public dataset which contains a list of emails related to the oil industry. This is an over simplification because we want more generic entities, but it shows how pattern matching is a better alternative than NER in this case. To summarise, we will extract oil-related elements from email messages.</p>
+In this notebook, I train a model to detect entities related to oil/petrol from this public dataset which contains a list of emails related to the oil industry. This is an over simplification because we want more generic entities, but it shows how pattern matching is a better alternative than NER in this case. To summarise, we will extract oil-related elements from email messages.</p>
 
 <p style="text-align:justify">For more details, please check it out in my <a href="https://github.com/sulaihasubi/Named-Entity-Recognition-spaCy">Github Repository</a></p>
 
