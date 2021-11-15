@@ -43,8 +43,8 @@ In this notebook, I train a model to detect entities related to oil/petrol from 
 ## 📈 Data Science
 
 ###### Fraud Detection in Insurance Claims
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/insurance-claims-fraud-detection) 
 [![Dataiku](https://img.shields.io/static/v1?style=for-the-badge&message=Dataiku&color=2AB1AC&logo=Dataiku&logoColor=FFFFFF&label=)](https://community.dataiku.com/t5/user/viewprofilepage/user-id/7023)
+[![View on GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/sulaihasubi/insurance-claims-fraud-detection)
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
