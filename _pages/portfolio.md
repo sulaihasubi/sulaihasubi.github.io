@@ -47,6 +47,9 @@ In this notebook, I train a model to detect entities related to oil/petrol from 
 [![View on GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/sulaihasubi/insurance-claims-fraud-detection)
 
 
+
+###### Fraud Detection in Customer Transaction
+
 <!-- This is for Sidebar Menu on the Rigth Side -->
 <aside class="sidebar__right ">
             <nav class="toc">
