@@ -20,7 +20,8 @@ title: "Portfolio"
 
 ###### Tokenization with spaCy
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/tokenization-spaCy)  [![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/tokenization-spaCy)  
+[![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
 
 
 <p><img src="https://sulaihasubi.github.io/assets/output/nlp.png" class="align-center"></p>
@@ -39,7 +40,10 @@ In this notebook, I train a model to detect entities related to oil/petrol from 
 
 <p style="text-align:justify">For more details, please check it out in my <a href="https://github.com/sulaihasubi/Named-Entity-Recognition-spaCy">Github Repository</a></p>
 
+## 📈 Data Science
 
+###### Fraud Detecttion in Insurance Claims
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/insurance-claims-fraud-detection) 
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
@@ -61,7 +65,7 @@ In this notebook, I train a model to detect entities related to oil/petrol from 
   </li>
   <li class=""><a href="#-data-science">📈 Data Science</a>
     <ul>
-      <li class=""><a href="">Fraud Detection in Insurance Claim</a></li>
+      <li class=""><a href="">Fraud Detection in Insurance Claims</a></li>
       <li class=""><a href="">Fraud Detection in Customer Transaction</a></li>
     </ul>
   </li>
