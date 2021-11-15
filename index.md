@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 excerpt: 'I currently active looking for better career opportunities.'
 header:
   overlay_image: assets/images/banner3.png
