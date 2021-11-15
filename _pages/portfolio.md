@@ -72,8 +72,8 @@ In this notebook, I train a model to detect entities related to oil/petrol from 
   </li>
   <li class=""><a href="#-data-science">📈 Data Science</a>
     <ul>
-      <li class=""><a href="">Fraud Detection in Insurance Claims</a></li>
-      <li class=""><a href="">Fraud Detection in Customer Transaction</a></li>
+      <li class=""><a href="#fraud-detection-in-insurance-claims">Fraud Detection in Insurance Claims</a></li>
+      <li class=""><a href="#fraud-detection-in-customer-transaction">Fraud Detection in Customer Transaction</a></li>
     </ul>
   </li>
 </ul>
