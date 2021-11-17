@@ -19,6 +19,8 @@ title: "Portfolio"
 <!-- [***Face Recognition with Java***](https://github.com/sulaihasubi/Person-Detection-and-Counting) -->
 <p><img src="https://sulaihasubi.github.io/assets/output/sue1.png" class="align-center"></p>
 
+<p style="text-align:justify">Read full project details here: <a href="https://github.com/sulaihasubi/Person-Detection-and-Counting">Github Repository</a></p>
+
 ## 📖 Natural Language Processing (NLP)
 
 ###### Tokenization with spaCy
