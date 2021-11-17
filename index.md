@@ -41,7 +41,7 @@ Hobbies: Taekwondo & Yoga
 <p style="text-align:justify">
 One of the biggest achievment in my life is getting black belt 1st Dan in Taekwondo (Taekwondo Malaysia). Not limited to Taekwondo, I love doing Yoga during my leasure time to increase my flexibility and endurance!</p>
 
-<img src="https://media-exp1.licdn.com/dms/image/C562DAQED_LKC5TUx0A/profile-treasury-image-shrink_1920_1920/0/1598848275051?e=1636592400&amp;v=beta&amp;t=lhc1hh13r_JBFkLEqdOZrl8m0WPuwRLloKgtfP4TvvM" loading="lazy" alt="" id="ember835" class="ivm-view-attr__img--centered pv-overlay-view-content__image-view-model lazy-image ember-view">
+<p><img src="https://sulaihasubi.github.io/assets/images/blackbelt.jpeg" class="align-center"></p>
 
 
 <blockquote>
