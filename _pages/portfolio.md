@@ -50,6 +50,8 @@ This predictive model predicts the dataset from auto insurance either the claims
 Based on the prediction data, the model are able to estimate the total predicted fraudulent claims (amounts), and break down the features of this fraudulent by looking fraud count by insured hobbies etc. </p>
 <p><img src="https://sulaihasubi.github.io/assets/output/insurance.gif" class="align-center"></p>
 
+<p style="text-align:justify">To read more on how I working on for this ML Model, please check it out in my <a href="https://github.com/sulaihasubi/insurance-claims-fraud-detection">Github Repository</a></p>
+
 ###### Fraud Detection in Customer Transaction
 [![Dataiku](https://img.shields.io/static/v1?style=for-the-badge&message=Dataiku&color=2AB1AC&logo=Dataiku&logoColor=FFFFFF&label=)](https://community.dataiku.com/t5/user/viewprofilepage/user-id/7023)
 [![View on GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/sulaihasubi/insurance-claims-fraud-detection)
