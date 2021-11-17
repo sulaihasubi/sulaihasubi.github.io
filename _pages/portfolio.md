@@ -51,6 +51,8 @@ In this notebook, I train a model to detect entities related to oil/petrol from 
 [![Dataiku](https://img.shields.io/static/v1?style=for-the-badge&message=Dataiku&color=2AB1AC&logo=Dataiku&logoColor=FFFFFF&label=)](https://community.dataiku.com/t5/user/viewprofilepage/user-id/7023)
 [![View on GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/sulaihasubi/insurance-claims-fraud-detection)
 
+<p><img src="https://sulaihasubi.github.io/assets/output/transaction.gif" class="align-center"></p>
+
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
 <aside class="sidebar__right ">
