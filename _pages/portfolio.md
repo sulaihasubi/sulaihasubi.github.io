@@ -11,7 +11,7 @@ title: "Portfolio"
 <p><img src="https://sulaihasubi.github.io/assets/output/enter-non-productive.gif" class="align-center"></p>
 
 <p>Dwell time for each of detected person</p>
-<p><img src="https://sulaihasubi.github.io/assets/output/a.mp4" class="align-center"></p>
+<p><img src="https://sulaihasubi.github.io/assets/output/a.gif" class="align-center"></p>
 
 ###### Face Recognition in Java
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Face-Recognition)
