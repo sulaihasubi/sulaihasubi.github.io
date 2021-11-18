@@ -59,7 +59,9 @@ Based on the prediction data, the model are able to estimate the total predicted
 
 The Impact from Fraud Detection ML Model:
 <ul style="text-align:justify">
-<li>Ensure the data quality by performing data cleaning, normalization & enrichment </li>
+<li>Detect and prevent fraud before claims are paid</li>
+<li>Increase the acceptance rate for further investigation resulting in fewer false positives</li>
+<li>Increase the identification of suspicious claims</li>
 </ul>
 
 <p style="text-align:justify">To read more on how I working on for this ML Model, please check it out in my <a href="https://github.com/sulaihasubi/insurance-claims-fraud-detection">Github Repository</a></p>
