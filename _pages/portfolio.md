@@ -57,8 +57,8 @@ This predictive model predicts the dataset from auto insurance either the claims
 Based on the prediction data, the model are able to estimate the total predicted fraudulent claims (amounts), and break down the features of this fraudulent by looking fraud count by insured hobbies etc. </p>
 <p><img src="https://sulaihasubi.github.io/assets/output/insurance.gif" class="align-center"></p>
 
-<ul style="text-align:justify">
 The Impact from Fraud Detection ML Model:
+<ul style="text-align:justify">
 <li>Ensure the data quality by performing data cleaning, normalization & enrichment </li>
 </ul>
 
