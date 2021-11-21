@@ -96,6 +96,9 @@ One of the biggest achievment in my life is getting black belt 1st Dan in Taekwo
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
-  <li class=""><a href="#career-objective">Career Objective</a></li>
+  <li class=""><a href="#about-me">About Me</a></li>
+  <li class=""><a href="#my-background">My Background</a></li>
+  <li class=""><a href="#why-data-science--artificial-intelligence">My Journey to Data Science</a></li>
+  <li class=""><a href="#my-data-science-skills">My Data Science Skills</a></li>
   <li class=""><a href="#competition">Competition</a></li>
   <li class=""><a href="#hobbies-taekwondo--yoga">Hobbies: Taekwondo & Yoga</a>
