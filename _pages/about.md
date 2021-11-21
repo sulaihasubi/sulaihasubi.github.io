@@ -48,14 +48,7 @@ My Data Science Skills
 
 
 
-Keywords:
----
-<p style="text-align:justify">
-Python (Pandas, Numpy, OpenCV), Data Cleaning, Data Visualization (Matplotlib), SQL, Command Line, Git and Version Control, Data Version Control (DVC) Machine Learning (Linear Regression, Classification, Clustering etc.), Probability/Statistics, Deep Learning</p>
 
-
-<p style="text-align:justify">
-I am ready to apply my Data Science skills to solve <strong>bussiness problems <strong> either full-time, contract, remote or freelance</p>
 
 
 
