@@ -40,7 +40,7 @@ Projects I worked on include Text Pre-processing for NLP in the documents manage
 
 My Journey to Data Science
 ---
-
+As an undergraduate in Information System, a unique program that focus on both technical and managerial aspects. 
 
 
 My Data Science Skills
