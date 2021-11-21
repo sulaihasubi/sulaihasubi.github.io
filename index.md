@@ -25,7 +25,7 @@ I am actively looking for job opportunities where I can help companies in optimi
 <p style="text-align:justify">
 Feel free to <a href="https://www.linkedin.com/in/sulaihasubi/">contact me</a> if you found my website useful and think I might be a good fit or simply would like to connect ☕</p> 
 
-What I possess as a Data Scientist
+👩🏻‍🔬 What I possess as a Data Scientist
 ---
 <p style="text-align:justify">
 Personally, domain knwoledge and the ability to learn on the fly really far more valuable than on a book understanding of machine learning algorithms. The good things I possess as a Data Scientist in RiseHill are:-
@@ -36,7 +36,7 @@ Personally, domain knwoledge and the ability to learn on the fly really far more
   <li>Machine Learning models not always or muse be a complicated model</li>
   <li>Capability and desire to express complex issues in a simple and transparent manner.</li>
   <li>Be detailed oriented and understanding on how to drive a business competitive</li>
-  <li>Be detailed oriented and understanding on how to drive a business competitive</li>
+  <li>Be a strong analytical thinker with problem-solving and presentation skills.</li>
 </ul>
 
 
