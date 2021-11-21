@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WM7DL68N4Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WM7DL68N4Q');
+</script>
+
 # This portfolio being modified by Sulaiha Subi
 
 # Theme Setting
@@ -74,16 +84,6 @@ analytics:
   google:
     tracking_id: "G-WM7DL68N4Q"
     anonymize_ip: false # default
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WM7DL68N4Q"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-WM7DL68N4Q');
-</script>
 
 # Build settings
 markdown: kramdown
