@@ -11,7 +11,7 @@ header:
 <!-- CTA Button for the CV, Portfolio and LinkedIn -->
 <p class="text-center"><a href="https://sulaihasubi.github.io/cv/" class="btn btn--info">CV</a> <a href="https://sulaihasubi.github.io/portfolio/" class="btn btn--info">Portfolio</a> <a href="https://www.linkedin.com/in/sulaihasubi/" class="btn btn--info">LinkedIn</a></p>
 
-About Me
+💡 About Me
 ---
 <p style="text-align:justify">
 I am currently in career development in the area of Data Science and Artificial Intelligence. This is my Portfolio to keep track of my projects, contributions & publications.</p>
@@ -40,7 +40,7 @@ Personally, domain knwoledge and the ability to learn on the fly really far more
 </ul>
 
 
-My Background
+👩🏼‍💼 My Background
 ---
 <p style="text-align:justify">
 My name is Sulaiha Subi, you may call me <strong>"Sue"</strong> for short. I am <strong> Data Scientist </strong> at a startup company in Kuala Lumpur with industry experience in Data Science, Deep Learning and Machine Learning. I joined the company as the first Data Scientist working on every aspect of Data Analytics and Predictive Modelling. I am the main contributor to the development of Data Science in the company.
@@ -53,7 +53,7 @@ I am proficient in Python (Pandas, NumPy, Matplotlib, OpenCV etc) programming la
 Projects I worked on include Text Pre-processing for NLP in the documents management system, Integrated Data Intelligence (IDI), and applied cutting-edge Computer Vision skills  for POC in face recognition & counting for productivity measurements. More details about this project can be found here:
 <p class="text-center"><a href="https://sulaihasubi.github.io/portfolio/" class="btn btn--info">View My Portfolio</a></p> </p>
 
-My Journey to Data Science
+📈 My Journey to Data Science
 ---
 <p style="text-align:justify">
 As an undergraduate in Information System, a unique program that focus on both technical and managerial aspects. During my studies as undergraduate, there are few subjects in IS like Intelligence System, Data Mining, Data Visualisation and Collective Intelligence (NLP like Text & Speech Processing) that encourage me to pursue more in Data Science.</p>
@@ -71,7 +71,7 @@ before the deployment. Not limited to that, I actively encouraging myself to col
 I dreamed about predicting the future using past data & wanted to be a part in Data Analytics Team - before all the hype around data science. Therefore in 2020, I decided to fulfill my dream to move from Labuan to Kuala Lumpur and become a Data Scientist.
 </p>
 
-My Data Science Skills
+📊 My Data Science Skills
 ---
 <p style="text-align:justify">
 I have for one and half years experinced in Data Science. I already built few end-to-end <strong>Machine Learning Models & Predictive Analytics Projects</strong> based on real-world problems. 
