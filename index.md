@@ -50,7 +50,7 @@ I have for one and half years experinced in Data Science. I already built few en
 </p>
 
 <p style="text-align:justify">
-Having a background in Computer Science allows me to learn quickly and quickly adapt into the trends of technology. The experience that I acquired through out this years are:
+Having a background in Computer Science allows me to learn faster and quickly adapt into the trends of technology. The experience that I acquired through out this years are:
 </p>
 <ul style="text-align:justify">
   <li>Trained by Skymind’s experienced Deep Learning Engineer on how to effectively use Deep Learning tools to create Computer Vision Models for productions</li>
