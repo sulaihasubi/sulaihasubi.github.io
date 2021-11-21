@@ -109,7 +109,7 @@ I am ready to apply my Data Science skills to solve <strong>bussiness problems</
               <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
   <li class=""><a href="#about-me">About Me</a></li>
-  <li class=""><a href="#about-me">What I possess as a Data Scientist</a></li>
+  <li class=""><a href="#what-i-possess-as-a-data-scientist">What I possess as a Data Scientist</a></li>
   <li class=""><a href="#my-background">My Background</a></li>
   <li class=""><a href="#my-journey-to-data-science">My Journey to Data Science</a></li>
   <li class=""><a href="#my-data-science-skills">My Data Science Skills</a></li>
