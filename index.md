@@ -38,7 +38,7 @@ I am proficient in Python (Pandas, NumPy, Matplotlib, OpenCV etc) programming la
 Projects I worked on include Text Pre-processing for NLP in the documents management system, Integrated Data Intelligence (IDI), and applied cutting-edge Computer Vision skills  for POC in face recognition & counting for productivity measurements. More details about this project can be found here:
 <p class="text-center"><a href="https://sulaihasubi.github.io/portfolio/" class="btn btn--info">View My Portfolio</a></p> </p>
 
-Why Data Science & Artificial Intelligence
+My Journey to Data Science
 ---
 
 
@@ -82,6 +82,6 @@ I am ready to apply my Data Science skills to solve <strong>bussiness problems</
               <ul class="toc__menu">
   <li class=""><a href="#about-me">About Me</a></li>
   <li class=""><a href="#my-background">My Background</a></li>
-  <li class=""><a href="#why-data-science--artificial-intelligence">Why Data Science & Artificial Intelligence</a></li>
+  <li class=""><a href="#why-data-science--artificial-intelligence">My Journey to Data Science</a></li>
   <li class=""><a href="#my-data-science-skills">My Data Science Skills</a></li>
   <li class=""><a href="#keywords">Keywords</a></li>
