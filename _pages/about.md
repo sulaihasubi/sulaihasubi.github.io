@@ -13,9 +13,13 @@ redirect_from:
 
 About Me
 ---
+<p style="text-align:justify">
+I am currently in career development in the area of Data Science and Artificial Intelligence. This is my Portfolio to keep track of my projects, contributions & publications. </p>
 
+<p style="text-align:justify">
+My background is hybrid – I am passionoate about data analytics, numbers and programming, but also have software engineering & developemnt experiences.</p>
 
-Career Objective
+My Background
 ---
 <p style="text-align:justify">
 My name is Sulaiha Subi, you may call me <strong>"Sue"</strong>for short. I am <strong> Data Scientist </strong> at a startup company in Kuala Lumpur with industry experience in Deep Learning and Machine Learning. I joined the company as the first Data Scientist working on every aspect of Data Analytics and Predictive Modelling. I am the main contributor to the development of Data Science in the company.
