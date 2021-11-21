@@ -1,13 +1,3 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WM7DL68N4Q"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-WM7DL68N4Q');
-</script>
-
 # This portfolio being modified by Sulaiha Subi
 
 # Theme Setting
@@ -72,7 +62,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : 
+google_site_verification : "G-WM7DL68N4Q"
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
