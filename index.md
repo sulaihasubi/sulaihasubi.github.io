@@ -46,7 +46,8 @@ Why Data Science & Artificial Intelligence
 My Data Science Skills
 ---
 <p style="text-align:justify">
-I have for one and half years experinced in Data Science,
+I have for one and half years experinced in Data Science. I already built few end-to-end <strong>Machine Learning Models & Predictive Analytics Projects</strong> based on real-world problems. 
+</p>
 
 
 Keywords
