@@ -40,8 +40,15 @@ Projects I worked on include Text Pre-processing for NLP in the documents manage
 
 My Journey to Data Science
 ---
-As an undergraduate in Information System, a unique program that focus on both technical and managerial aspects. 
+<p style="text-align:justify">
+As an undergraduate in Information System, a unique program that focus on both technical and managerial aspects. During my studies as undergraduate, there are few subjects in IS like Intelligence System, Data Mining, Data Visualisation and Collective Intelligence (NLP like Text & Speech Processing) that encourage me to pursue more in Data Science.</p>
 
+<p style="text-align:justify">
+After graduation in 2019, in 2020 I continue to pursue my Data Science journey by taking Deep Learning Certification and training  which covered in-depth study of data pipelines and deep learning model development from deploying deep learning to production. 
+</p>
+
+<p style="text-align:justify">
+Along the way of my journey to be Data Scientist (current role), I developed my skills in Data Science for Marketing as Digital Marketer (Analysing Marketing Data), 
 
 My Data Science Skills
 ---
