@@ -34,9 +34,9 @@ Personally, domain knwoledge and the ability to learn on the fly really far more
 <ul style="text-align:justify">
   <li>The ability to built robustly simple models that generalise effectively on out-of-sample data.</li>
   <li>Machine Learning models not always or must be a complicated model</li>
-  <li>Capability and desire to express complex issues in a simple and transparent manner.</li>
+  <li>Capability and desire to express complex issues in a simple and transparent manner</li>
   <li>Be detailed oriented and understanding on how to drive a business competitive</li>
-  <li>Be a strong analytical thinker with problem-solving and presentation skills.</li>
+  <li>Be a strong analytical thinker with problem-solving and presentation skills</li>
 </ul>
 
 
