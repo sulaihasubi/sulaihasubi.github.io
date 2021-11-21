@@ -23,7 +23,7 @@ My background is hybrid – I am passionoate about data analytics, numbers and p
 I am actively looking for job opportunities where I can help companies in optimising thier businesses  and product development by providing meaningful data insights through Python, SQL, and Tableau (or similar technologies).</p>
 
 <p style="text-align:justify">
-Feel free to <a href="https://www.linkedin.com/in/sulaihasubi/">contact me</a>if you found my website useful and think I might be a good fit or simply would like to connect. ☕</p> 
+Feel free to <a href="https://www.linkedin.com/in/sulaihasubi/">contact me</a> if you found my website useful and think I might be a good fit or simply would like to connect. ☕</p> 
 
 My Background
 ---
