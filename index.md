@@ -53,15 +53,17 @@ I have for one and half years experinced in Data Science. I already built few en
 Having a background in Computer Science allows me to learn faster and quickly adapt into the trends of technology. The experience that I acquired through out this years are:
 </p>
 <ul style="text-align:justify">
-  <li>Trained by Skymind’s experienced Deep Learning Engineer on how to effectively use Deep Learning tools to create Computer Vision Models for productions</li>
-  <li>Understand the state of the art of advanced machine/deep learning concepts, theory, and applications Deep Learning model development from deploying deep learning to production</li>
-  <li>Hands-on with a large data set, learn algorithms, build models, and verify them </li>
-  <li>Improved (fine-tune) deep learning models</li>
-  <li>Used advanced techniques and algorithms of Deep Learning for Computer Vision</li>
+  <li>Cleaning and transforming data with Python libraries (Pandas, Numpy)</li>
+  <li>Data Preprocessing (One-Hot Encoding, Feature Scaling, Data Normalization, Dealing with Missing Values, Dimensionality Reduction with PCA)</li>
+  <li>Data Visualizations and Explorative Data Analysis (EDA) with Dataiku</li>
+  <li>Deep Learning for Computer Vision & Natural Language Processing (NLP)</li>
+  <li>Training Machine Learning models using best practices (including train/val/test splits, class balance, outlier detection/removal)</li>
   <li>Knowledgeable in how to image processing, image classification, object detection to image segmentation, using the Deeplearning4j framework</li>
   <li>Knowledge in machine/deep learning, optimization, probability theory, and statistical inference</li>
-  <li>Powerfully used programming in Java using IntelliJ IDEA and Python</li>
-  <li><strong>Achievement:</strong> Utilize extensive knowledge in deep learning to complete a Computer Vision Project (Face Recognition) within two days (meet the project timelines)</li>
+  <li>Hyperparameters tuning</li>
+  <li>End-to-end Machine Learning pipelines</li>
+  <li>Knowledge in Cloud Computing like AWS EC2</li>
+  <li>Database Management like PHP & SQL</li>
 </ul>
 
 Keywords
