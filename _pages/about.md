@@ -40,6 +40,17 @@ Projects I worked on include Text Pre-processing for NLP in the documents manage
 
 My Journey to Data Science
 ---
+<p style="text-align:justify">
+As an undergraduate in Information System, a unique program that focus on both technical and managerial aspects. During my studies as undergraduate, there are few subjects in IS like Intelligence System, Data Mining, Data Visualisation and Collective Intelligence (NLP like Text & Speech Processing) that encourage me to pursue more in Data Science.</p>
+
+<p style="text-align:justify">
+After graduation in 2019, in 2020 I continue to pursue my Data Science journey by taking Deep Learning Certification (Junior Deep Learning Engineer) and one month training  which covered in-depth study of data pipelines and deep learning model development from deploying deep learning to production. 
+</p>
+
+<p style="text-align:justify">
+Along the way of my journey become Data Scientist (current role), I developed my skills in Data Science for Marketing as Digital Marketer (Analysing Marketing Data), I became part time apprentice which is deep learning infrastructure development and then I joined IoT Company at Cyberjaya as Software Engineer where I worked with IoT engineer perform and design testing protocols/prototypes to ensure that the product is fully tested
+before the deployment. Not limited to that, I actively encouraging myself to collaborate in solving real-world project as Machine Learning Engineer. 
+</p> 
 
 
 
