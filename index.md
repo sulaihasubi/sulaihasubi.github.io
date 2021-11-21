@@ -25,7 +25,7 @@ I am actively looking for job opportunities where I can help companies in optimi
 <p style="text-align:justify">
 Feel free to <a href="https://www.linkedin.com/in/sulaihasubi/">contact me</a> if you found my website useful and think I might be a good fit or simply would like to connect ☕</p> 
 
-👩🏻‍🔬 What I possess as a Data Scientist
+👩🏻‍🔬 What I Possess as a Data Scientist
 ---
 <p style="text-align:justify">
 Personally, domain knwoledge and the ability to learn on the fly really far more valuable than on a book understanding of machine learning algorithms. The good things I possess as a Data Scientist in RiseHill are:-
@@ -109,7 +109,7 @@ I am ready to apply my Data Science skills to solve <strong>bussiness problems</
               <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
   <li class=""><a href="#about-me">About Me</a></li>
-  <li class=""><a href="#what-i-possess-as-a-data-scientist">What I possess as a Data Scientist</a></li>
+  <li class=""><a href="#what-i-possess-as-a-data-scientist">What I Possess as a Data Scientist</a></li>
   <li class=""><a href="#my-background">My Background</a></li>
   <li class=""><a href="#my-journey-to-data-science">My Journey to Data Science</a></li>
   <li class=""><a href="#my-data-science-skills">My Data Science Skills</a></li>
