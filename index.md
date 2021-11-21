@@ -48,7 +48,7 @@ After graduation in 2019, in 2020 I continue to pursue my Data Science journey b
 </p>
 
 <p style="text-align:justify">
-Along the way of my journey become Data Scientist (current role), I developed my skills in Data Science for Marketing as Digital Marketer (Analysing Marketing Data), I became part time apprentice which is deep learning infrastructure development and then I joined IoT Company at Cyberjaya as Software Engineer where I worked with IoT engineer perform and design testing protocols/prototypes to ensure that the product is fully tested
+Along the way of my journey become Data Scientist (current role), I developed my skills in Data Science for Marketing as Digital Marketer (Analysing Marketing Data), I became part time apprentice which is deep learning infrastructure development and then I joined IoT Company at Cyberjaya as Software Engineer where I worked with IoT engineer, to perform and design testing protocols/prototypes to ensure that the product is fully tested
 before the deployment. Not limited to that, I actively encouraging myself to collaborate in solving real-world project as Machine Learning Engineer. 
 </p> 
 
