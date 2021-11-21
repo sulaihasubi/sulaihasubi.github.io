@@ -52,6 +52,10 @@ Along the way of my journey become Data Scientist (current role), I developed my
 before the deployment. Not limited to that, I actively encouraging myself to collaborate in solving real-world project as Machine Learning Engineer. 
 </p> 
 
+<p style="text-align:justify">
+I dreamed about predicting the future using past data & wanted to be a part in Data Analytics Team - before all the hype around data science. Therefore in 2020, I decided to fulfill my dream to move from Labuan to Kuala Lumpur and become a Data Scientist.
+</p>
+
 
 
 My Data Science Skills
