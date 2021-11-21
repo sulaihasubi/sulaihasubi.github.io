@@ -150,7 +150,7 @@ plugins:
 author:
   name   : "Sulaiha Subi"
   avatar : "/assets/images/dp.png"
-  bio    : "Data Scientist"
+  bio    : "Data Scientist, connecting your data into business outcomes"
   links:
     - label: "Kuala Lumpur, MY"
       icon: "fas fa-fw fa-map-marker-alt"
