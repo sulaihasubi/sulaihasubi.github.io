@@ -49,6 +49,20 @@ My Data Science Skills
 I have for one and half years experinced in Data Science. I already built few end-to-end <strong>Machine Learning Models & Predictive Analytics Projects</strong> based on real-world problems. 
 </p>
 
+<p style="text-align:justify">
+Having a background in Computer Science allows me to learn quickly and quickly adapt into the trends of technology. The experience that I acquired through out this years are:
+</p>
+<ul style="text-align:justify">
+  <li>Trained by Skymind’s experienced Deep Learning Engineer on how to effectively use Deep Learning tools to create Computer Vision Models for productions</li>
+  <li>Understand the state of the art of advanced machine/deep learning concepts, theory, and applications Deep Learning model development from deploying deep learning to production</li>
+  <li>Hands-on with a large data set, learn algorithms, build models, and verify them </li>
+  <li>Improved (fine-tune) deep learning models</li>
+  <li>Used advanced techniques and algorithms of Deep Learning for Computer Vision</li>
+  <li>Knowledgeable in how to image processing, image classification, object detection to image segmentation, using the Deeplearning4j framework</li>
+  <li>Knowledge in machine/deep learning, optimization, probability theory, and statistical inference</li>
+  <li>Powerfully used programming in Java using IntelliJ IDEA and Python</li>
+  <li><strong>Achievement:</strong> Utilize extensive knowledge in deep learning to complete a Computer Vision Project (Face Recognition) within two days (meet the project timelines)</li>
+</ul>
 
 Keywords
 ---
