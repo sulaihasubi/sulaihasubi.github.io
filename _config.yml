@@ -68,6 +68,14 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+# Google Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-WM7DL68N4Q"
+    anonymize_ip: false # default
+
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
