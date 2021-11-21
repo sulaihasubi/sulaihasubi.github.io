@@ -38,6 +38,26 @@ I am proficient in Python (Pandas, NumPy, Matplotlib, OpenCV etc) programming la
 Projects I worked on include Text Pre-processing for NLP in the documents management system, Integrated Data Intelligence (IDI), and applied cutting-edge Computer Vision skills  for POC in face recognition & counting for productivity measurements. More details about this project can be found here:
 <p class="text-center"><a href="https://sulaihasubi.github.io/portfolio/" class="btn btn--info">View My Portfolio</a></p> </p>
 
+Why Data Science & Artificial Intelligence
+---
+
+
+
+My Data Science Skills
+---
+
+
+
+Keywords:
+---
+<p style="text-align:justify">
+Python (Pandas, Numpy, OpenCV), Data Cleaning, Data Visualization (Matplotlib), SQL, Command Line, Git and Version Control, Data Version Control (DVC) Machine Learning (Linear Regression, Classification, Clustering etc.), Probability/Statistics, Deep Learning</p>
+
+
+<p style="text-align:justify">
+I am ready to apply my Data Science skills to solve <strong>bussiness problems <strong> either full-time, contract, remote or freelance</p>
+
+
 
 Competition
 ---
