@@ -28,7 +28,7 @@ Feel free to <a href="https://www.linkedin.com/in/sulaihasubi/">contact me</a> i
 My Background
 ---
 <p style="text-align:justify">
-My name is Sulaiha Subi, you may call me <strong>"Sue"</strong>for short. I am <strong> Data Scientist </strong> at a startup company in Kuala Lumpur with industry experience in Deep Learning and Machine Learning. I joined the company as the first Data Scientist working on every aspect of Data Analytics and Predictive Modelling. I am the main contributor to the development of Data Science in the company.
+My name is Sulaiha Subi, you may call me <strong>"Sue"</strong> for short. I am <strong> Data Scientist </strong> at a startup company in Kuala Lumpur with industry experience in Deep Learning and Machine Learning. I joined the company as the first Data Scientist working on every aspect of Data Analytics and Predictive Modelling. I am the main contributor to the development of Data Science in the company.
 My other big responsibilities as Data Scientist are to develop new client relationships or potential collaboration, meet & present the company's product/services & highly responsible to prepare high business value commercial proposals across different domains of the industries (client-facing skills). </p>
 <p style="text-align:justify">
 I also currently collaborating with 47 other AI Engineer from 18 countries for 8 weeks challenge as a <strong>Machine Learning Engineer</strong> (part-timer) at Omdena. In this project I apply my knowledge and skills to build an automated plant health prediction model, using drone-derived multispectral and thermal data combined with weather and irrigation data. </p>
@@ -51,9 +51,9 @@ My Data Science Skills
 Keywords
 ---
 <p style="text-align:justify">
-Python (Pandas, Numpy, Matplotlib, OpenCV), Data Cleaning, Data Visualization (Dataiku, Tableau), SQL, Command Line, Git and Version Control, Data Version Control (DVC) Advanced Machine Learning (Linear Regression, Classification, Clustering etc.), Deep Learning (NN, CNN, etc) Probability/Statistics, Natural Language Processing (NLP), Computer Vision</p>
+Python (Pandas, Numpy, Matplotlib, OpenCV), Data Cleaning, Data Visualization (Dataiku, Tableau), SQL, Command Line, Git and Version Control, Data Version Control (DVC) Advanced Machine Learning (Linear Regression, Classification, Clustering etc.), Deep Learning (NN, CNN, etc) Probability/Statistics, Natural Language Processing (NLP), Computer Vision.</p>
 <p style="text-align:justify">
-I am ready to apply my Data Science skills to solve <strong>bussiness problems</strong> either full-time, contract, remote or freelance. </p>
+I am ready to apply my Data Science skills to solve <strong>bussiness problems</strong> either full-time, contract, remote or freelance.</p>
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
