@@ -11,6 +11,10 @@ redirect_from:
 <!-- CTA Button for the CV, Portfolio and LinkedIn -->
 <p class="text-center"><a href="https://sulaihasubi.github.io/cv/" class="btn btn--info">CV</a> <a href="https://sulaihasubi.github.io/portfolio/" class="btn btn--info">Portfolio</a> <a href="https://www.linkedin.com/in/sulaihasubi/" class="btn btn--info">LinkedIn</a></p>
 
+About Me
+---
+
+
 Career Objective
 ---
 <p style="text-align:justify">
