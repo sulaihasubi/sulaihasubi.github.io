@@ -51,9 +51,9 @@ My Data Science Skills
 Keywords
 ---
 <p style="text-align:justify">
-Python (Pandas, Numpy, OpenCV), Data Cleaning, Data Visualization (Matplotlib), SQL, Command Line, Git and Version Control, Data Version Control (DVC) Machine Learning (Linear Regression, Classification, Clustering etc.), Probability/Statistics, Deep Learning</p>
+Python (Pandas, Numpy, OpenCV), Data Cleaning, Data Visualization (Matplotlib), SQL, Command Line, Git and Version Control, Data Version Control (DVC) Machine Learning (Linear Regression, Classification, Clustering etc.), Probability/Statistics, Deep Learning. </p>
 <p style="text-align:justify">
-I am ready to apply my Data Science skills to solve <strong>bussiness problems</strong> either full-time, contract, remote or freelance </p>
+I am ready to apply my Data Science skills to solve <strong>bussiness problems</strong> either full-time, contract, remote or freelance. </p>
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
@@ -64,6 +64,6 @@ I am ready to apply my Data Science skills to solve <strong>bussiness problems</
               <ul class="toc__menu">
   <li class=""><a href="#about-me">About Me</a></li>
   <li class=""><a href="#my-background">My Background</a></li>
-  <li class=""><a href="#my-background">Why Data Science & Artificial Intelligence</a></li>
-  <li class=""><a href="#my-background">My Data Science Skills</a></li>
-  <li class=""><a href="#my-background">Keywords</a></li>
+  <li class=""><a href="#why-data-science--artificial-intelligence">Why Data Science & Artificial Intelligence</a></li>
+  <li class=""><a href="#my-data-science-skills">My Data Science Skills</a></li>
+  <li class=""><a href="#keywords">Keywords</a></li>
