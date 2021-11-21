@@ -32,17 +32,11 @@ Personally, domain knwoledge and the ability to learn on the fly really far more
 </p>
 
 <ul style="text-align:justify">
-  <li>Cleaning and transforming data with Python libraries (Pandas, Numpy)</li>
-  <li>Data Preprocessing (One-Hot Encoding, Feature Scaling, Data Normalization, Dealing with Missing Values, Dimensionality Reduction with PCA)</li>
-  <li>Data Visualizations and Exploratory Data Analysis (EDA) with Dataiku</li>
-  <li>Advanced Deep Learning for Computer Vision & Natural Language Processing (NLP)</li>
-  <li>Training Machine Learning models using best practices (including train/val/test splits, class balance, outlier detection/removal)</li>
-  <li>Knowledgeable in how to image processing, image classification, object detection to image segmentation, using the Deeplearning4j framework</li>
-  <li>Knowledge in machine/deep learning, optimization, probability theory, and statistical inference</li>
-  <li>Hyperparameters tuning</li>
-  <li>End-to-end Machine Learning pipelines</li>
-  <li>Knowledge in Cloud Computing like AWS EC2</li>
-  <li>Database Management like PHP & SQL</li>
+  <li>The ability to built robustly simple models that generalise effectively on out-of-sample data.</li>
+  <li>Machine Learning models not always or muse be a complicated model</li>
+  <li>Capability and desire to express complex issues in a simple and transparent manner.</li>
+  <li>Be detailed oriented and understanding on how to drive a business competitive</li>
+  <li>Be detailed oriented and understanding on how to drive a business competitive</li>
 </ul>
 
 
