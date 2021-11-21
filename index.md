@@ -25,6 +25,27 @@ I am actively looking for job opportunities where I can help companies in optimi
 <p style="text-align:justify">
 Feel free to <a href="https://www.linkedin.com/in/sulaihasubi/">contact me</a> if you found my website useful and think I might be a good fit or simply would like to connect ☕</p> 
 
+What I possess as a Data Scientist
+---
+<p style="text-align:justify">
+Personally, domain knwoledge and the ability to learn on the fly really far more valuable than on a book understanding of machine learning algorithms. The good things I possess as a Data Scientist in RiseHill are:-
+</p>
+
+<ul style="text-align:justify">
+  <li>Cleaning and transforming data with Python libraries (Pandas, Numpy)</li>
+  <li>Data Preprocessing (One-Hot Encoding, Feature Scaling, Data Normalization, Dealing with Missing Values, Dimensionality Reduction with PCA)</li>
+  <li>Data Visualizations and Exploratory Data Analysis (EDA) with Dataiku</li>
+  <li>Advanced Deep Learning for Computer Vision & Natural Language Processing (NLP)</li>
+  <li>Training Machine Learning models using best practices (including train/val/test splits, class balance, outlier detection/removal)</li>
+  <li>Knowledgeable in how to image processing, image classification, object detection to image segmentation, using the Deeplearning4j framework</li>
+  <li>Knowledge in machine/deep learning, optimization, probability theory, and statistical inference</li>
+  <li>Hyperparameters tuning</li>
+  <li>End-to-end Machine Learning pipelines</li>
+  <li>Knowledge in Cloud Computing like AWS EC2</li>
+  <li>Database Management like PHP & SQL</li>
+</ul>
+
+
 My Background
 ---
 <p style="text-align:justify">
