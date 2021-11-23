@@ -9,7 +9,7 @@ title                    : "Sulaiha Subi"
 title_separator          : " | "
 subtitle                 : "Version 2.0" # site tagline that appears below site title in masthead
 name                     : "Sulaiha Subi"
-description              : "Data Science Portfolio for Sulaiha Subi"
+description              : "Data Scientist Portfolio"
 url                      : https://sulaihasubi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : sulaihasubi.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
