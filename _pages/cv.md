@@ -196,6 +196,5 @@ Please visit my <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Aw
   <li><a href="#-projects-and-articles">📝 Projects & Publications</a></li>
   <li class=""><a href="#-skills">🦾 Skills</a></li>
 </ul>
-
-            </nav>
-          </aside>
+</nav>
+</aside>
