@@ -165,7 +165,7 @@ Please visit my <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Aw
 <li ><strong>Programming Languages:</strong>  Python, JSON, HTML, HTML5, CSS, PHP, MySQL, NoSQL, Java, C++, R, Java Script, Prolog, XML, LateX</li>
 <li><strong>NLP:</strong> Named Entity Recognition (NER), Text Pre-Processing using SpaCy</li>
 <li><strong>Computer Vision:</strong> Face Recognition, Video Analysis, Image Processing, OCR</li>
-<li><strong>Tools:</strong> IntelliJ IDEA, Adobe Dreamweaver CC 2017, Microsoft Visual Studio, Tableau, Weka, Eclipse, Notepad++, Rapid Miner, TeXstudio, CUDA, Maven, Laravel, Firebase, Dataiku, PyCharm, Jupyter Notebook & VS Code </li>
+<li><strong>Tools:</strong> IntelliJ IDEA, Adobe Dreamweaver CC 2017, Microsoft Visual Studio, Tableau, Weka, Eclipse, Notepad++, Rapid Miner, TeXstudio, CUDA, Maven, Laravel, Firebase, Dataiku, PyCharm, Jupyter Notebook, Google Colab & VS Code </li>
 <li><strong>Others:</strong> AWS EC2, Dataiku, Tableau, SAS,  DAGSHub, Data Vision Control (DVC)</li>
 </ul>
 
