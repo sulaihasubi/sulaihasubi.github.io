@@ -84,7 +84,7 @@ This ML Model developed end-to-end with Dataiku DSS Platform.</p>
 <p><img src="https://sulaihasubi.github.io/assets/output/transaction.gif" class="align-center"></p>
 
 <p style="text-align:justify">
-Get to know more about this project. <a href="https://github.com/sulaihasubi/insurance-claims-fraud-detection">Click here.</a></p>
+Get to know more about this project by visiting my Github Repo. <a href="https://github.com/sulaihasubi/insurance-claims-fraud-detection">Click here!</a></p>
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
