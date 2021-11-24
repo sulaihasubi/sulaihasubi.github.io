@@ -14,8 +14,15 @@ title: "Curriculum Vitae"
 
  <li> LinkedIn: <a href="https://www.linkedin.com/in/sulaihasubi/">linkedin.com/in/sulaihasubi/</a></li>
 
+⌛ Career Objective
+---
+<p style="text-align:justify">
+Strong analytical thinker with problem-solving and presentation skills. Seeking to leverage on model development
+experience and strong understanding in predictive modeling, and computer vision with a solid computer science background
+and understanding of machine learning & data science will be utilized. Bringing hands-on experience, excellent collaboration
+and communication skills, as well as programming skills.</p>
 
-💻 Experiences
+💻 Professional Experiences
 ---
 <h4 style="text-align:left;"> RiseHill Data Analysis<span style="float:right;">
          Kuala Lumpur, MY
@@ -33,6 +40,9 @@ title: "Curriculum Vitae"
   <li>Built and test Machine Learning model in Dataiku DSS Platform to select the most appropriate ones for use on a project</li>
   <li>Develop new client relationships/potential collaboration</li>
   <li>Meet & present the company's product/services & highly responsible to prepare high business value commercial proposals across different domains of the industries (client-facing skills)</li>
+  <li><strong>Achievement:</strong> Utilize extensive knowledge in Data Science & Computer Vision such as developed predictive modeling,
+abilities to extract, clean, and prepare data for data science model ingestion and communicate those complex & technical
+outputs to the business peoples or industry experts</li>
 </ul>
 
 ---
@@ -105,6 +115,25 @@ title: "Curriculum Vitae"
   <li><strong>Achievement:</strong> Utilize extensive knowledge in deep learning to complete a Computer Vision Project (Face Recognition) within two days (meet the project timelines)</li>
 </ul>
 
+---
+<h4 style="text-align:left;">Department of Information System<span style="float:right;">
+         Kuching, SWK</span></h4> 
+<p style="text-align:left;"><em>Internship<span style="float:right;">
+         Feb 2017 – July 2017</span></em></p>
+<ul style="text-align:justify">
+  <li>Debugged Service-Learning System for Local Support</li>
+  <li>Performs upgrades and maintenance to the Service-Learning System</li>
+  <li>Information and data gathering to be inserted into the Service-Learning System</li>
+  <li>Managed the database of SL System</li>
+  <li>Develop a website for the promotional and latest information about SL Projects including contents writing & web
+designing</li>
+  <li>Performed research about SL & communicated the research both internally & externally to the Service-Learning’s
+Advisor</li>
+  <li>Engaged in team collaborations to meet the goals for implementation of Service Learning</li>
+  <li><strong>Achievement:</strong> Utilize extensive knowledge in a programming language such as PHP, HTML, MySQL, MySQLi, CSS, & database management to complete the SL System & SL website within the time frame</li>
+</ul>
+
+
 🎓 Education
 ---
 <h4 style="text-align:left;">University Malaysia Sarawak (UNIMAS)<span style="float:right;">
@@ -133,7 +162,7 @@ Please visit my <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Aw
 🦾 Skills
 ---
 <ul style="text-align:justify">
-<li ><strong>Programming Languages:</strong> Python, JSON, HTML, HTML5, CSS, PHP, Java, C++, Python, R, Java Script, Prolog, XML, LateX</li>
+<li ><strong>Programming Languages:</strong>  Python, JSON, HTML, HTML5, CSS, PHP, MySQL, NoSQL, Java, C++, R, Java Script, Prolog, XML, LateX</li>
 <li><strong>NLP:</strong> Named Entity Recognition (NER), Text Pre-Processing using SpaCy</li>
 <li><strong>Computer Vision:</strong> Face Recognition, Video Analysis, Image Processing, OCR</li>
 <li><strong>Tools:</strong> IntelliJ IDEA, Adobe Dreamweaver CC 2017, Microsoft Visual Studio, Tableau, Weka, Eclipse, Notepad++, Rapid Miner, TeXstudio, CUDA, Maven, Laravel, Firebase, Dataiku, PyCharm, Jupyter Notebook & VS Code </li>
