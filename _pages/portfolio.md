@@ -83,6 +83,14 @@ This ML Model developed end-to-end with Dataiku DSS Platform.</p>
 
 <p><img src="https://sulaihasubi.github.io/assets/output/transaction.gif" class="align-center"></p>
 
+The goal of this ML Model:
+<ul style="text-align:justify">
+<li>Built machine learning models on a challenging large-scale e-commerce transactions dataset</li>
+<li>To help business to reduce fraud loss and increase their revenue</li>
+<li>To provide best solutions for fraud prevention</li>
+</ul>
+
+
 <p style="text-align:justify">
 Get to know more about this project by visiting my Github Repo. <a href="https://github.com/sulaihasubi/insurance-claims-fraud-detection">Click here!</a></p>
 
