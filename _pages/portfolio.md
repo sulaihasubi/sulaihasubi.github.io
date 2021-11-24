@@ -71,8 +71,11 @@ The Impact from Fraud Detection ML Model:
 [![View on GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/sulaihasubi/insurance-claims-fraud-detection)
 [![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)](https://www.kaggle.com/c/ieee-fraud-detection/overview/description)
 
+#### Title  
+
+
 <p style="text-align:justify">
-In this project, machine learning model will predict the probability an online transaction being fraudulent, as indicated by the binary target <i>**isFraud**.</i></p>
+In this project, machine learning model will predict the probability an online transaction being fraudulent, as indicated by the binary target <i>isFraud.</i></p>
 
 <p style="text-align:justify">
 The data is divided into two files, identification and transaction, which are linked together by TransactionID. Not all transactions are associated with a unique identifier.</p>
