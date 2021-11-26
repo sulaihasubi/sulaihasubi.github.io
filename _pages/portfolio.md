@@ -18,7 +18,7 @@ title: "Portfolio"
 ###### Face Recognition in Java
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Face-Recognition)
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Face-Recognition)
+
 <p style="text-align:justify">This project will highlight the Face Recognition technique used to detect and recognize faces of individuals where it is involved in capturing people faces from a web camera.  It involves candidates and trainers of CERTIFAI Online CDLE. The individual’s images are categorized into two, which are the faces of trainers or candidates. These images are then saved in the face database. The model then should be able to analyze face’s features and match it with the information in a database and identify who there are.</p>
 <!-- [***Face Recognition with Java***](https://github.com/sulaihasubi/Person-Detection-and-Counting) -->
 <p><img src="https://sulaihasubi.github.io/assets/output/sue1.png" class="align-center"></p>
