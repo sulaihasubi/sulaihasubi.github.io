@@ -42,7 +42,7 @@ IDI enabling user the state of art search-and-classification technology. It is s
 
 <p><img src="https://sulaihasubi.github.io/assets/output/idi.png" class="align-center"></p>
 <p style="text-align:justify">
-Image above shows how my application of NLP (cleaned texts) helps for instant browsing of documents from millions of files less than a second that retrieve and full traceability to original documents.
+Image above shows how my application of NLP (cleaned texts) helps for instant browsing of documents that retrieve & full traceability to original documents.
 </p>
 <p style="text-align:justify">For more details, please check it out in my <a href="https://github.com/sulaihasubi/tokenization-spaCy">Github Repository</a></p>
 
