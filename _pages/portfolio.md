@@ -35,6 +35,9 @@ title: "Portfolio"
 <p><img src="https://sulaihasubi.github.io/assets/output/nlp.png" class="align-center"></p>
 
 <p style="text-align:justify">RiseHill Data Analysis's SAS Product: Integrated Data Intelligence (IDI).</p>
+<p style="text-align:justify">
+Application of NLP (cleaned texts) for instant browsing of documents from millions of files less than a second that retrieve and full traceability to original documents.
+</p>
 <p><img src="https://sulaihasubi.github.io/assets/output/idi.png" class="align-center"></p>
 <p style="text-align:justify">For more details, please check it out in my <a href="https://github.com/sulaihasubi/tokenization-spaCy">Github Repository</a></p>
 
