@@ -36,6 +36,9 @@ title: "Portfolio"
 
 <p style="text-align:justify">RiseHill Data Analysis's SAS Product: Integrated Data Intelligence (IDI).</p>
 <p style="text-align:justify">
+IDI enabling user the state of art search-and-classification technology. It is specialized in handling millions of unstructured data and documents such as .pdf, .docx, .xlsx, and many forms of data types. IDI converted this unstructured information into user friendly readable structured information through advanced sequence of Machine Learning Algorithm such as Optical Character Recognition (OCR) for text digitalization, Natural Language Processing (NLP) for Advanced Searching, Contextual Understanding and Word Clouds, and Deep Convolutional Neural Network (DCNN) for auto Image Classification of multiple image classes including maps, table, seismic and many more.   
+</p>
+<p style="text-align:justify">
 Application of NLP (cleaned texts) for instant browsing of documents from millions of files less than a second that retrieve and full traceability to original documents.
 </p>
 <p><img src="https://sulaihasubi.github.io/assets/output/idi.png" class="align-center"></p>
