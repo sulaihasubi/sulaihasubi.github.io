@@ -34,7 +34,7 @@ title: "Portfolio"
 <p style="text-align:justify">Below Image shows the Tokenization process take place in spaCy NLP pipelines. Image credited to spaCy.</p>
 <p><img src="https://sulaihasubi.github.io/assets/output/nlp.png" class="align-center"></p>
 
-<p style="text-align:justify">RiseHill Data Analysis's SAS Product: Integrated Data Intelligence (IDI)</p>
+<p style="text-align:justify">RiseHill Data Analysis's SAS Product: Integrated Data Intelligence (IDI).</p>
 <p><img src="https://sulaihasubi.github.io/assets/output/idi.png" class="align-center"></p>
 <p style="text-align:justify">For more details, please check it out in my <a href="https://github.com/sulaihasubi/tokenization-spaCy">Github Repository</a></p>
 
