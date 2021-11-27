@@ -48,7 +48,8 @@ IDI enabling user the state of art search-and-classification technology. It is s
 <p style="text-align:justify">
 Image above shows how my application of NLP (cleaned texts) helps for instant browsing of documents that retrieve & full traceability to original documents.
 </p>
-<p style="text-align:justify">For more details, please check it out in my <a href="https://github.com/sulaihasubi/tokenization-spaCy">Github Repository</a></p>
+
+For more details, please check it out in my [Github Repository](https://github.com/sulaihasubi/tokenization-spaCy){:target="_blank" rel="noopener"}
 
 ###### Named Entity Recognition (NER)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Named-Entity-Recognition-spaCy)  [![Built with spaCy](https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg)](https://spacy.io)
@@ -62,7 +63,7 @@ This will be a complete end-to-end demonstration of the entire process, includin
 <p style="text-align:justify">
 In this notebook, I train a model to detect entities related to oil/petrol from this public dataset which contains a list of emails related to the oil industry. This is an over simplification because we want more generic entities, but it shows how pattern matching is a better alternative than NER in this case. To summarise, we will extract oil-related elements from email messages.</p>
 
-<p style="text-align:justify">For more details, please check it out in my <a href="https://github.com/sulaihasubi/Named-Entity-Recognition-spaCy">Github Repository</a></p>
+For more details, please check it out in my [Github Repository](https://github.com/sulaihasubi/Named-Entity-Recognition-spaCy){:target="_blank" rel="noopener"}
 
 ## 📈 Data Science
 
@@ -82,7 +83,7 @@ The Impact from Fraud Detection ML Model:
 <li>Increase the identification of suspicious claims</li>
 </ul>
 
-<p style="text-align:justify">To read more on how I working on for this ML Model, please check it out in my <a href="https://github.com/sulaihasubi/insurance-claims-fraud-detection">Github Repository</a></p>
+To read more on how I working on for this ML Model, please check it out in my [Github Repository](https://github.com/sulaihasubi/insurance-claims-fraud-detection){:target="_blank" rel="noopener"}
 
 ###### Fraud Detection in Customer Transaction
 [![Dataiku](https://img.shields.io/static/v1?style=for-the-badge&message=Dataiku&color=2AB1AC&logo=Dataiku&logoColor=FFFFFF&label=)](https://community.dataiku.com/t5/user/viewprofilepage/user-id/7023)
@@ -109,8 +110,8 @@ The goal of this ML Model:
 </ul>
 
 
-<p style="text-align:justify">
-Get to know more about this project by visiting my Github Repo. <a href="https://github.com/sulaihasubi/customer-trasanction-fraud-detection">Click here!</a></p>
+Get to know more about this project by visiting my Github Repo. 
+[Click here!](https://github.com/sulaihasubi/customer-trasanction-fraud-detection){:target="_blank" rel="noopener"}
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
