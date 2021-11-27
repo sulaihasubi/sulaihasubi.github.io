@@ -18,7 +18,7 @@ title: "Portfolio"
 
 <p style="text-align:justify">Read full project details here: 
 [Github Repository](https://github.com/sulaihasubi/Person-Detection-and-Counting){:target="_blank" rel="noopener"}
-
+<a href="https://github.com/sulaihasubi/Person-Detection-and-Counting"></a></p>
 
 ###### Face Recognition in Java
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sulaihasubi/Face-Recognition)
