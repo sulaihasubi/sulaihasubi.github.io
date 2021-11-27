@@ -16,7 +16,7 @@ title: "Portfolio"
 <p>Dwell time for each of detected person</p>
 <p><img src="https://sulaihasubi.github.io/assets/output/a.gif" class="align-center"></p>
 
-<p style="text-align:justify">Read full project details here:</p>
+Read full project details here:
 [Github Repository](https://github.com/sulaihasubi/Person-Detection-and-Counting){:target="_blank" rel="noopener"}
 
 ###### Face Recognition in Java
