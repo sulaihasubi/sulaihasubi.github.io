@@ -12,10 +12,7 @@ title: "Curriculum Vitae"
 ---
  <li> Email: <a href="mailto:ssulaihasubi@gmail.com">ssulaihasubi@gmail.com</a></li>
 
- <li> LinkedIn: [Click here!](https://www.linkedin.com/in/sulaihasubi/){:target="_blank" rel="noopener"}
- </li>
- 
- [Click here!](https://www.linkedin.com/in/sulaihasubi/){:target="_blank" rel="noopener"}
+ <li> LinkedIn: </li> [Click here!](https://www.linkedin.com/in/sulaihasubi/){:target="_blank" rel="noopener"}
 
 ⌛ Career Objective
 ---
