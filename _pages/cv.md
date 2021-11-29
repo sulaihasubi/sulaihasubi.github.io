@@ -14,6 +14,8 @@ title: "Curriculum Vitae"
 
  <li> LinkedIn: [Click here!](https://www.linkedin.com/in/sulaihasubi/){:target="_blank" rel="noopener"}
  </li>
+ 
+ [Click here!](https://www.linkedin.com/in/sulaihasubi/){:target="_blank" rel="noopener"}
 
 ⌛ Career Objective
 ---
