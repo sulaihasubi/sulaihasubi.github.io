@@ -97,10 +97,14 @@ In this project, machine learning model will predict the probability an online t
 <p style="text-align:justify">
 The data is divided into two files, identification and transaction, which are linked together by TransactionID. Not all transactions are associated with a unique identifier.</p>
 
+<p><img src="https://sulaihasubi.github.io/assets/output/workflow.png" class="align-center"></p>
+
 <p style="text-align:justify">
 This ML Model developed end-to-end with Dataiku DSS Platform.</p>
 
 <p><img src="https://sulaihasubi.github.io/assets/output/transaction.gif" class="align-center"></p>
+
+
 
 The goal of this ML Model:
 <ul style="text-align:justify">
