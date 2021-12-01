@@ -1,7 +1,7 @@
 # This portfolio being modified by Sulaiha Subi
 
 # Theme Setting
-minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings              
 locale                   : "en-US"
