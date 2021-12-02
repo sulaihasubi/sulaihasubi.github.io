@@ -27,6 +27,12 @@ redirect_from:
 <img src="https://sulaihasubi.github.io/assets/certs/dlc/Sulaiha%20Subi_Anatomy%20of%20an%20AI%20Project.png" class="align-center">
 <figcaption class="align-center">Anatomy of an AI Project</figcaption>
 </figure>
+
+<figure>
+<img src="https://sulaihasubi.github.io/assets/certs/dlc/Sulaiha%20Subi_Literacy%20in%20AI.png" class="align-center">
+<figcaption class="align-center">Literacy in AI </figcaption>
+</figure>
+
 </p>
 
 2019
