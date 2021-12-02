@@ -12,7 +12,7 @@ redirect_from:
 ###### Deep Learning Certifications
 
 
-<p><img src="https://sulaihasubi.github.io/assets/output/workflow.png" class="align-center"></p>
+<p><img src="https://sulaihasubi.github.io/assets/certs/Deep%20Learning%20Certifications%20(2019-2022)/Sulaiha%20Subi_Certified%20Deep%20Learning%20Engineer%20(Advanced).pdf" class="align-center"></p>
 
 2019
 ---
@@ -29,14 +29,13 @@ redirect_from:
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
-  <li class=""><a href="#2020">2020-2022</a>
+  <li class=""><a href="#2020---2022">2020-2022</a>
     <ul>
       <li class=""><a href="#deep-learning-certifications">Deep Learning Certifications</a></li>
     </ul>
   </li>
   <li class=""><a href=" ">2019</a>
     <ul>
-      <li class=""><a href=" "> </a></li>
       <li class=""><a href=" "> </a></li>
     </ul>
   </li>
