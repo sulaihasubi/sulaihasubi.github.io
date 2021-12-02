@@ -9,7 +9,7 @@ redirect_from:
 2020 - 2022
 ---
 
-###### Deep Learning Certificarions
+###### Deep Learning Certifications
 
 
 
