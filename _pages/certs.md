@@ -29,14 +29,23 @@ redirect_from:
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
-  <li class=""><a href="#career-objective">2020</a></li>
+  <li class=""><a href="#-computer-vision">2020</a>
     <ul>
-      <li class=""><a href="">Cert 1</a></li>
-      <li class=""><a href="">Omdena</a></li>
-      <li class=""><a href="">PULSY Technolgy</a></li>
-      <li class=""><a href="">Terra Weather (Apprenticeship)</a></li>
-      <li class=""><a href="">Shoppegram</a></li>
-      <li class=""><a href="">Skymind</a></li>
-      <!-- <li class=""><a href="#business-analytics-competition--conference-2018--manhattan-college">Business Analytics Competition &amp; Conference 2018 @ Manhattan College</a></li> -->
+      <li class=""><a href="#poc-face-recognition--people-counting-for-productivity-measurement"> </a></li>
+      <li class=""><a href="#face-recognition-in-java"> </a></li>
     </ul>
+  </li>
+  <li class=""><a href="#-natural-language-processing-nlp"> </a>
+    <ul>
+      <li class=""><a href="#tokenization-with-spacy"> </a></li>
+      <li class=""><a href="#named-entity-recognition-ner"> </a></li>
+    </ul>
+  </li>
+  <li class=""><a href="#-data-science">2019e</a>
+    <ul>
+      <li class=""><a href="#fraud-detection-in-insurance-claims"> </a></li>
+      <li class=""><a href="#fraud-detection-in-customer-transaction"> </a></li>
+    </ul>
+  </li>
+</ul>
 
