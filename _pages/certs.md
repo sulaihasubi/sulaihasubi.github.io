@@ -34,12 +34,6 @@ redirect_from:
       <li class=""><a href="#deep-learning-certifications">Deep Learning Certifications</a></li>
     </ul>
   </li>
-  <li class=""><a href=" "> </a>
-    <ul>
-      <li class=""><a href=" "> </a></li>
-      <li class=""><a href=""> </a></li>
-    </ul>
-  </li>
   <li class=""><a href=" ">2019</a>
     <ul>
       <li class=""><a href=" "> </a></li>
