@@ -15,6 +15,27 @@ redirect_from:
 <p style="text-align:justify">
 More details about the use case, can be read here: <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Awards/RiseHill-Data-Analysis-Using-AI-to-combat-the-Rise-in-Corporate/ta-p/18184">Dataiku Frontrunner Awards!</a></p>
 
+
+
+
+
+
+2020
+---
+
+
+
+
+2019
+---
+
+
+
+
+2018
+---
+
+
 <!-- This is for Sidebar Menu on the Rigth Side -->
 <aside class="sidebar__right ">
             <nav class="toc">
