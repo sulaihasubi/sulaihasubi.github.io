@@ -9,7 +9,7 @@ redirect_from:
 2020 - 2022
 ---
 
-###### Deep Learning Certifications
+###### 🎓 Deep Learning Certifications
 
 
 <p>
@@ -35,15 +35,6 @@ redirect_from:
 
 </p>
 
-2019
----
-
-
-
-
-2018
----
-
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
 <aside class="sidebar__right ">
@@ -55,10 +46,4 @@ redirect_from:
       <li class=""><a href="#deep-learning-certifications">Deep Learning Certifications</a></li>
     </ul>
   </li>
-  <li class=""><a href=" ">2019</a>
-    <ul>
-      <li class=""><a href=" "> </a></li>
-    </ul>
-  </li>
-</ul>
 
