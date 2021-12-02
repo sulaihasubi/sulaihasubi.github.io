@@ -43,7 +43,7 @@ redirect_from:
               <ul class="toc__menu">
   <li class=""><a href="#2020---2022">2020-2022</a>
     <ul>
-      <li class=""><a href="#deep-learning-certifications">Deep Learning Certifications</a></li>
+      <li class=""><a href="#-deep-learning-certifications">Deep Learning Certifications</a></li>
     </ul>
   </li>
 
