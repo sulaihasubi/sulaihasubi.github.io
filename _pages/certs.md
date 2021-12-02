@@ -1,6 +1,6 @@
 ---
 permalink: /certs/
-title: "Certifictions"
+title: "Certifications"
 redirect_from: 
   - /certs/
   - /certs.html
@@ -12,7 +12,7 @@ redirect_from:
 ###### Deep Learning Certifications
 
 
-
+<p><img src="https://sulaihasubi.github.io/assets/output/workflow.png" class="align-center"></p>
 
 2019
 ---
@@ -31,8 +31,7 @@ redirect_from:
               <ul class="toc__menu">
   <li class=""><a href="#2020">2020-2022</a>
     <ul>
-      <li class=""><a href=""> </a></li>
-      <li class=""><a href=" "> </a></li>
+      <li class=""><a href="#deep-learning-certifications">Deep Learning Certifications</a></li>
     </ul>
   </li>
   <li class=""><a href=" "> </a>
