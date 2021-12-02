@@ -15,7 +15,7 @@ redirect_from:
 <p>
 <figure>
 <img src="https://sulaihasubi.github.io/assets/certs/dlc/Sulaiha%20Subi_Certified%20Deep%20Learning%20Engineer%20(Advanced).png" class="align-center">
-<figcaption>Fig.1 - Trulli, Puglia, Italy</figcaption>
+<figcaption class="align-center">Fig.1 - Trulli, Puglia, Italy</figcaption>
 </figure>
 </p>
 
