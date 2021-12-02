@@ -6,10 +6,10 @@ redirect_from:
   - /certs.html
 ---
 
-2020
+2020 - 2022
 ---
 
-###### Cert 1
+###### Deep Learning Certificarions
 
 
 
@@ -29,7 +29,7 @@ redirect_from:
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
-  <li class=""><a href="#2020">2020</a>
+  <li class=""><a href="#2020">2020-2022</a>
     <ul>
       <li class=""><a href=""> </a></li>
       <li class=""><a href=" "> </a></li>
@@ -41,7 +41,7 @@ redirect_from:
       <li class=""><a href=""> </a></li>
     </ul>
   </li>
-  <li class=""><a href=" ">2019e</a>
+  <li class=""><a href=" ">2019</a>
     <ul>
       <li class=""><a href=" "> </a></li>
       <li class=""><a href=" "> </a></li>
