@@ -15,7 +15,7 @@ redirect_from:
 <p>
 <figure>
 <img src="https://sulaihasubi.github.io/assets/certs/dlc/Sulaiha%20Subi_Certified%20Engineer%20in%20Computer%20Vision.png" class="align-center">
-<figcaption src="https://sulaihasubi.github.io/assets/certs/dlc/Sulaiha%20Subi_Certified%20Engineer%20in%20Computer%20Vision.png" class="align-center">Certified Engineer in Computer Vision</figcaption>
+<figcaption class="align-center">Certified Engineer in Computer Vision</figcaption>
 </figure>
 
 <figure>
