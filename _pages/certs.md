@@ -13,7 +13,7 @@ redirect_from:
 
 <p>
 <figure>
-<!-- <img src="https://app.testdome.com/cert/5bb75e15d66b470c9ef06056abfed64f" class="testdome-certificate-stamp silver" class="align-center"> -->
+
 <a href="https://app.testdome.com/cert/5bb75e15d66b470c9ef06056abfed64f" class="testdome-certificate-stamp silver"><span class="testdome-certificate-name">    
         Siti Sulaiha Bint...
     
@@ -25,8 +25,7 @@ redirect_from:
 
 2020 - 2022
 ---
-
-###### 🎓 Deep Learning Certifications
+###### 🎓 Deep Learning Certification
 
 
 <p>
