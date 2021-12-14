@@ -13,8 +13,8 @@ redirect_from:
 
 <p>
 <figure>
-<img src="https://app.testdome.com/cert/5bb75e15d66b470c9ef06056abfed64f" class="align-center">
-<figcaption class="align-center">Certified Engineer in Computer Vision</figcaption>
+<img src="https://app.testdome.com/cert/5bb75e15d66b470c9ef06056abfed64f" class="testdome-certificate-stamp silver" class="align-center">
+<figcaption class="align-center">General and Python Data Science</figcaption>
 </figure>
 
 
