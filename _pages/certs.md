@@ -6,6 +6,18 @@ redirect_from:
   - /certs.html
 ---
 
+2022
+---
+###### 🎓 TestDome Data Science Certifications
+
+
+<p>
+<figure>
+<img src="https://app.testdome.com/cert/5bb75e15d66b470c9ef06056abfed64f" class="align-center">
+<figcaption class="align-center">Certified Engineer in Computer Vision</figcaption>
+</figure>
+
+
 2020 - 2022
 ---
 
@@ -41,6 +53,11 @@ redirect_from:
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
+  <li class=""><a href="#2020---2022">2022</a>
+    <ul>
+      <li class=""><a href="#-deep-learning-certifications">TestDome Data Science Certifications</a></li>
+    </ul>
+  </li>
   <li class=""><a href="#2020---2022">2020-2022</a>
     <ul>
       <li class=""><a href="#-deep-learning-certifications">Deep Learning Certifications</a></li>
