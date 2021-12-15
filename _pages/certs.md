@@ -12,7 +12,7 @@ redirect_from:
 
 
 <p>
-<figure>
+<figure class="align-center">
 <a href="https://app.testdome.com/cert/5bb75e15d66b470c9ef06056abfed64f" class="testdome-certificate-stamp silver" ><span class="testdome-certificate-name">    
         Sulaiha Subi   
 </span>
