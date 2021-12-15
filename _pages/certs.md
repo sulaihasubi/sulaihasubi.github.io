@@ -59,7 +59,7 @@ redirect_from:
               <ul class="toc__menu">
   <li class=""><a href="#2020---2022">2022</a>
     <ul>
-      <li class=""><a href="#-deep-learning-certifications">TestDome Data Science Certifications</a></li>
+      <li class=""><a href="#-testdome-data-science-certifications">TestDome Data Science Certifications</a></li>
     </ul>
   </li>
   <li class=""><a href="#2020---2022">2020-2022</a>
