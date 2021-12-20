@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 ---
 <!-- <p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p> -->
 
-<p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-05-11">Nov 24, 2021</time></p>
+<p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-05-11">Dec 20, 2021</time></p>
 <a href="https://sulaihasubi.github.io/files/sulaiha-subi-cv.pdf" class="btn btn--info">Download CV</a>
 
 
@@ -76,7 +76,7 @@ outputs to the business peoples or industry experts</li>
 <h4 style="text-align:left;">Terra Weather (Apprenticeship)<span style="float:right;">
         Singapore, SG</span></h4> 
 <p style="text-align:left;"><em>Deep Learning Infrastructure Development<span style="float:right;">
-         Sep 2020 – Apr 2021</span></em></p>
+         Sep 2020 – Jan 2021</span></em></p>
 <ul style="text-align:justify">
   <li>Part-time Apprenticeship</li>
   <li>Develop new TW Caffe layers enhance data processing pipeline</li>
