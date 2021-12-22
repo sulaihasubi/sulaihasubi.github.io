@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-excerpt: 'I currently active looking for better career opportunities.'
+excerpt: ''
 header:
   overlay_image: assets/images/data-visualisation6.gif
 ---
