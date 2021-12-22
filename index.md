@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-excerpt: 'Hola! I'm Sulaiha Subi (Sue) 👋🏻'
+excerpt: 'Hola! I'm Sulaiha Subi (Sue)👋🏻'
 header:
   overlay_image: assets/images/data-visualisation6.gif
 ---
