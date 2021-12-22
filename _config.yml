@@ -152,7 +152,7 @@ author:
   avatar : "/assets/images/dp3.jpg"
   bio    : "FULL STACK DATA SCIENTIST"
   links:
-    - label: "Kuala Lumpur, MY"
+    - label: "Kuala Lumpur"
       icon: "fas fa-fw fa-map-marker-alt"
       url: "https://en.wikipedia.org/wiki/Asia/Kuala_Lumpur"
     - label: "Email"
