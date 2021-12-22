@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-excerpt: 'Full-stack Data Scientist who is responsible for working on each stage in the Data Science lifecycle, from beginning to the end'
+excerpt: 'Hola! I'm Sulaiha Subi (Sue) 👋🏻'
 header:
   overlay_image: assets/images/data-visualisation6.gif
 ---
