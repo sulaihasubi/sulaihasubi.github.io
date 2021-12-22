@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-excerpt: 'Full-stack Data Scientist who is responsible for working on each stage in the Data Science lifecycle, from beginning to the end'
+excerpt: 'I currently active looking for better career opportunities.'
 header:
   overlay_image: assets/images/data-visualisation6.gif
 ---
@@ -46,9 +46,7 @@ Personally, domain knwoledge and the ability to learn on the fly really far more
 My name is Sulaiha Subi, you may call me <strong>"Sue"</strong> for short. I am <strong> Data Scientist </strong> at a startup company in Kuala Lumpur with industry experience in Data Science, Deep Learning and Machine Learning. I joined the company as the first Data Scientist working on every aspect of Data Analytics and Predictive Modelling. I am the main contributor to the development of Data Science in the company.
 My other big responsibilities as Data Scientist are to develop new client relationships or potential collaboration, meet & present the company's product/services & highly responsible to prepare high business value commercial proposals across different domains of the industries (client-facing skills). </p>
 <p style="text-align:justify">
-I also currently collaborating with 47 other AI Engineer from 18 countries for 8 weeks challenge as a <strong>Machine Learning Engineer</strong> (part-timer) at Omdena. In this project I apply my knowledge and skills to build an automated plant health prediction model, using drone-derived multispectral and thermal data combined with weather and irrigation data.
-<italic>(as 22 Dec 2021)</italic>
-</p>
+I also currently collaborating with 47 other AI Engineer from 18 countries for 8 weeks challenge as a <strong>Machine Learning Engineer</strong> (part-timer) at Omdena. In this project I apply my knowledge and skills to build an automated plant health prediction model, using drone-derived multispectral and thermal data combined with weather and irrigation data. </p>
 <p style="text-align:justify">
 I am proficient in Python (Pandas, NumPy, OpenCV) programming language and data visualisation with Tableau and Dataiku. I am enjoyed working with large datasets including cleaning, preprocessing, connecting and mining those data. I have alredy worked with few high value use case in Insurance, Marketing and Edge Computing like Drone where I built Random Forest, XGBoost, SVM, Regression and Image Classifiaction. Some of these model developed end-to-end in Dataiku DSS Platform. </p>
 <p style="text-align:justify">
@@ -116,4 +114,3 @@ I am ready to apply my Data Science skills to solve <strong>bussiness problems</
   <li class=""><a href="#-my-journey-to-data-science">My Journey to Data Science</a></li>
   <li class=""><a href="#-my-data-science-skills">My Data Science Skills</a></li>
   <li class=""><a href="#-keywords">Keywords</a></li>
-</ul>
