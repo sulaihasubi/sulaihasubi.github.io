@@ -28,7 +28,7 @@ and communication skills, as well as programming skills.</p>
          Kuala Lumpur, MY
     </span></h4> 
 <p style="text-align:left;"><em>Data Scientist<span style="float:right;">
-         Jun 2021 - Present</span></em></p>
+         Jun 2021 - Dec 2021</span></em></p>
 <ul style="text-align:justify">
   <li>Ensure the data quality by performing data cleaning, normalization & enrichment </li>
   <li>Working on every aspect of Data Analytics and Predictive Modelling</li>
@@ -49,7 +49,7 @@ outputs to the business peoples or industry experts</li>
 <h4 style="text-align:left;">Omdena<span style="float:right;">
          New York, NY</span></h4> 
 <p style="text-align:left;"><em>Machine Learning Engineer (Part-Time)<span style="float:right;">
-         Sep 2021 - Present</span></em></p>
+         Sep 2021 - Dec 2021</span></em></p>
 <ul style="text-align:justify">
   <li>One of the collaborators out of 47 AI Engineers from 18 Countries (8 weeks challenge)</li>
   <li>Build an automated plant health prediction model, using drone-derived multispectral and thermal data combined with weather and irrigation data</li>
