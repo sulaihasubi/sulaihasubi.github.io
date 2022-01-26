@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-excerpt: 'Delegate like a darling'
+excerpt: 'Delegate like a darling ✨'
 header:
   overlay_image: assets/images/data-visualisation6.gif
 ---
