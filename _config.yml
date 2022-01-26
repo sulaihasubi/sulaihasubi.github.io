@@ -180,7 +180,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/sulaihasubi/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
