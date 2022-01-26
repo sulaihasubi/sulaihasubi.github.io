@@ -164,7 +164,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sulaihasubi"
-      - label: "Google Developer"
+    - label: "Google Developer"
       icon: "fab fa-fw fa-google"
       url: "https://g.dev/sulaihasubi"
     - label: "DAGsHub"
