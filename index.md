@@ -28,7 +28,7 @@ Feel free to <a href="https://www.linkedin.com/in/sulaihasubi/">contact me</a> i
 👩🏻‍🔬 What I Possess as a Data Scientist
 ---
 <p style="text-align:justify">
-Personally, domain knwoledge and the ability to learn on the fly really far more valuable than on a book understanding of machine learning algorithms. The good things I possess as a Data Scientist in RiseHill are:-
+Personally, domain knwoledge and the ability to learn on the fly really far more valuable than on a book understanding of machine learning algorithms. The good things I possess as a Data Scientist are:-
 </p>
 
 <ul style="text-align:justify">
