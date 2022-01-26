@@ -99,7 +99,7 @@ Having a background in Computer Science allows me to learn faster and quickly ad
 <p style="text-align:justify">
 Python (Pandas, Numpy, Matplotlib, OpenCV), Data Cleaning, Data Visualization (Dataiku, Tableau), SQL, Command Line, Git and Version Control, Data Version Control (DVC) Advanced Machine Learning (Linear Regression, Classification, Clustering etc.), Deep Learning (NN, CNN, etc) Probability/Statistics, Natural Language Processing (NLP), Computer Vision, Cloud Computing (AWS EC2) </p>
 <p style="text-align:justify">
-I am ready to apply my Data Science skills to solve <strong>bussiness problems</strong> either full-time, contract, remote or freelance.</p>
+I am ready to apply my Data Science skills to solve <strong>bussiness problems</strong> either full-time, contract, hybrid, remote or freelance.</p>
 
 
 <!-- This is for Sidebar Menu on the Rigth Side -->
