@@ -24,6 +24,26 @@ and communication skills, as well as programming skills.</p>
 
 💻 Professional Experiences
 ---
+
+<h4 style="text-align:left;">MARQETR<span style="float:right;">
+         Kuala Lumpur, MY
+    </span></h4> 
+<p style="text-align:left;"><em>Data Scientist<span style="float:right;">
+         Jan 2022 - Present</span></em></p>
+<ul style="text-align:justify">
+  <li>Work with stakeholders to identify opportunities for leveraging company data to drive business solutions</li>
+  <li>Mine and analyze data from company databases to drive optimisation and improvement of product development, marketing techniques and business strategies</li>
+  <li>Design and develop custom and scalable predictive algorithms to apply to data sets</li>
+  <li>Assess the effectiveness and accuracy of new data sources and data gathering techniques</li>
+  <li>Use predictive modelling to increase and optimise customer experiences, revenue generation, targeting and other business outcomes</li>
+  <li>Collaborate with engineering team to bring analytical prototypes to production</li>
+  <li>Develop company A/B testing framework and test model qualitys</li>
+  <li>Generate actionable insights for business improvements</li>
+  <li>Develop processes and tools to monitor and analyze performance and data accuracy</li>
+</ul>
+
+---
+
 <h4 style="text-align:left;"> RiseHill Data Analysis<span style="float:right;">
          Kuala Lumpur, MY
     </span></h4> 
@@ -178,6 +198,7 @@ Please visit my <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Aw
   <li class=""><a href="#-career-objective">⌛ Career Objective</a></li>
   <li class=""><a href="#-experience">💻 Experiences</a>
     <ul>
+      <li class=""><a href="">MARQETR</a></li>
       <li class=""><a href="">RiseHill Data Analysis</a></li>
       <li class=""><a href="">Omdena</a></li>
       <li class=""><a href="">PULSY Technolgy</a></li>
