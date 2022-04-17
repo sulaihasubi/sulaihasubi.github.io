@@ -22,6 +22,9 @@ My background in Computer Science – I am passionate about data analytics, numb
 <p style="text-align:justify">
 I am actively looking for job opportunities where I can help companies in optimizing their businesses and product development by providing meaningful data insights through Python, SQL, and Tableau (or similar technologies).</p>
 
+<p class="text-center"><a href="https://sulaihasubi.github.io/portfolio/" class="btn btn--info">View My Portfolio</a></p> </p>
+
+
 <p style="text-align:justify">
 Feel free to <a href="https://www.linkedin.com/in/sulaihasubi/">contact me</a> if you found my website useful and think I might be a good fit or simply would like to connect ☕</p> 
 
