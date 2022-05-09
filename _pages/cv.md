@@ -14,7 +14,7 @@ title: "Curriculum Vitae"
 
  <li> LinkedIn:  <a href="https://www.linkedin.com/in/sulaihasubi/">linkedin.com/in/sulaihasubi/</a></li>
 
-⌛ Career Objective
+📌 Career Objective
 ---
 <p style="text-align:justify">
 Strong analytical thinker with problem-solving and presentation skills. Seeking to leverage on model development
@@ -195,7 +195,7 @@ Please visit my <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Aw
               <header><h4 class="nav__title"><i class="fas fa-bookmark"></i> Table of Contents</h4></header>
               <ul class="toc__menu">
   <li class=""><a href="#-contact-me">📧 Contact Me</a></li>
-  <li class=""><a href="#-career-objective">💡 Career Objective</a></li>
+  <li class=""><a href="#-career-objective">📌 Career Objective</a></li>
   <li class=""><a href="#-experience">💻 Experiences</a>
     <ul>
       <li class=""><a href="">MARQETR</a></li>
