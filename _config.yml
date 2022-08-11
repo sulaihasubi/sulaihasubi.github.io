@@ -199,7 +199,10 @@ footer:
       url: "https://medium.com/@ssulaihasubi"
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
-      url: "https://www.kaggle.com/sulaihasubi" 
+      url: "https://www.kaggle.com/sulaihasubi"
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "http://www.tiktok.com/@sulaihasubi.tiktok"
 
 # Defaults
 defaults:
