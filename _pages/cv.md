@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 ---
 <!-- <p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p> -->
 
-<p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-05-11">Feb 22, 2022</time></p>
+<p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-05-11">Aug 11, 2022</time></p>
 <a href="https://sulaihasubi.github.io/files/sulaiha-subi-cv.pdf" class="btn btn--info">Download CV</a>
 
 
