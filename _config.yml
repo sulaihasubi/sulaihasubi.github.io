@@ -176,6 +176,9 @@ author:
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
       url: "https://www.kaggle.com/sulaihasubi" 
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "http://www.tiktok.com/@sulaihasubi.tiktok" 
 
 footer:
   links:
