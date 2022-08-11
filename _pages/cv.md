@@ -28,7 +28,7 @@ and communication skills, as well as programming skills.</p>
 <h4 style="text-align:left;">MARQETR<span style="float:right;">
          Kuala Lumpur, MY
     </span></h4> 
-<p style="text-align:left;"><em>Data Scientist<span style="float:right;">
+<p style="text-align:left;"><em>Data Scientist & Operations Lead<span style="float:right;">
          Jan 2022 - Present</span></em></p>
 <ul style="text-align:justify">
   <li>Work with stakeholders to identify opportunities for leveraging company data to drive business solutions</li>
