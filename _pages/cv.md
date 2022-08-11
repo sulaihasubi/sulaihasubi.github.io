@@ -214,7 +214,7 @@ Please visit my <a href="https://community.dataiku.com/t5/Dataiku-Frontrunner-Aw
       <li class=""><a href="">Labuan Matriculation College</a></li>
     </ul>
   </li>
-  <li><a href="#-projects-and-articles">📝 Projects & Publications</a></li>
+  <li><a href="#-projects-&-publications">📝 Projects & Publications</a></li>
   <li class=""><a href="#-skills">🦾 Skills</a></li>
 </ul>
 </nav>
