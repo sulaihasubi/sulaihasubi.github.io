@@ -29,7 +29,7 @@ and communication skills, as well as programming skills.</p>
          Kuala Lumpur, MY
     </span></h4> 
 <p style="text-align:left;"><em>Data Scientist & Operations Lead<span style="float:right;">
-         Jan 2022 - Present</span></em></p>
+         Jan 2022 - Dec 2022</span></em></p>
 <ul style="text-align:justify">
   <li>Work with stakeholders to identify opportunities for leveraging company data to drive business solutions</li>
   <li>Mine and analyze data from company databases to drive optimisation and improvement of product development, marketing techniques and business strategies</li>
