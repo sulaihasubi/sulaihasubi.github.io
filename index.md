@@ -6,7 +6,7 @@ header:
   overlay_image: assets/images/data-visualisation6.gif
 ---
 
-<p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600.png" width="250" class="align-center"> </p>
+<p> <img src="https://sulaihasubi.github.io/assets/images/dp-600x600-2-modified.png" width="250" class="align-center"> </p>
 
 <!-- CTA Button for the CV, Portfolio and LinkedIn -->
 <p class="text-center"><a href="https://sulaihasubi.github.io/cv/" class="btn btn--info">CV</a> <a href="https://sulaihasubi.github.io/portfolio/" class="btn btn--info">Portfolio</a> <a href="https://www.linkedin.com/in/sulaihasubi/" class="btn btn--info">LinkedIn</a></p>
