@@ -14,7 +14,7 @@ title: "Curriculum Vitae"
 
  <li> LinkedIn:  <a href="https://www.linkedin.com/in/sulaihasubi/">linkedin.com/in/sulaihasubi/</a></li>
 
-📌 About Me
+📌 Career Objective
 ---
 <p style="text-align:justify">
 I'm a Data Scientist with a Software Engineering skills, a tech-savvy with over 3 years experiences as a data science professional with a background in Computer Science. I have a strong foundation in statistical analysis, machine learning, deep learning & data visualization.
@@ -31,7 +31,7 @@ I’m also a content creator in the Data Science, Machine Learning and Deep Lean
 <h4 style="text-align:left;">MARQETR<span style="float:right;">
          Kuala Lumpur, MY
     </span></h4> 
-<p style="text-align:left;"><em>Data Scientist & Operations Lead<span style="float:right;">
+<p style="text-align:left;"><em>Data Scientist<span style="float:right;">
          Jan 2022 - Dec 2022</span></em></p>
 <ul style="text-align:justify">
   <li>Work with stakeholders to identify opportunities for leveraging company data to drive business solutions</li>
