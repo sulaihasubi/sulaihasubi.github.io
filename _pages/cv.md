@@ -14,13 +14,16 @@ title: "Curriculum Vitae"
 
  <li> LinkedIn:  <a href="https://www.linkedin.com/in/sulaihasubi/">linkedin.com/in/sulaihasubi/</a></li>
 
-📌 Career Objective
+📌 About Me
 ---
 <p style="text-align:justify">
-Strong analytical thinker with problem-solving and presentation skills. Seeking to leverage on model development
-experience and strong understanding in predictive modeling, and computer vision with a solid computer science background
-and understanding of machine learning & data science will be utilized. Bringing hands-on experience, excellent collaboration
-and communication skills, as well as programming skills.</p>
+I'm a Data Scientist with a Software Engineering skills, a tech-savvy with over 3 years experiences as a data science professional with a background in Computer Science. I have a strong foundation in statistical analysis, machine learning, deep learning & data visualization.
+
+I take pleasure in leading a team and thrive in collaborative environments. I have a strong ability to communicate and delegate tasks effectively, and am able to mentor and support team members in achieving their goals. Effective communication of data insights is a critical aspect of my role as a data scientist. I am skilled at presenting complex data concepts in a clear and concise manner to both technical and non-technical stakeholders.
+
+I have experience working with a variety of stakeholders, including executives, managers, and subject matter experts, and am comfortable adapting my communication style to the needs of each audience. I am proficient in a variety of visualization tools and technologies, and use them to create visually appealing and easy-to-understand data reports and dashboards.
+
+I’m also a content creator in the Data Science, Machine Learning and Deep Leaning space. I currently produce educational content on TikTok as part of my leisure time to educate and motivate others. ✨</p>
 
 💻 Professional Experiences
 ---
